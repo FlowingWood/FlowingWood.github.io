@@ -1,0 +1,245 @@
+[
+  1,
+  [
+    "ebnyYe1elH36LqA/dcuZNw",
+    "76ht11dk1OxauUBWF4gl/l"
+  ],
+  [
+    "_textureSetter",
+    "spriteFrame"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "lottery_reward_code",
+          "rect": [
+            0,
+            0,
+            217,
+            250
+          ],
+          "offset": [
+            -19.5,
+            3
+          ],
+          "originalSize": [
+            256,
+            256
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "lottery_reward_code",
+          32,
+          {
+            "commonHeight": 55,
+            "fontSize": 32,
+            "atlasName": "lottery_reward_code.png",
+            "fontDefDictionary": {
+              "9": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 160,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "32": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 20,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "48": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 60,
+                "rect": {
+                  "x": 56,
+                  "y": 167,
+                  "width": 55,
+                  "height": 83
+                }
+              },
+              "49": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 55,
+                "rect": {
+                  "x": 167,
+                  "y": 83,
+                  "width": 50,
+                  "height": 82
+                }
+              },
+              "50": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 59,
+                "rect": {
+                  "x": 114,
+                  "y": 0,
+                  "width": 54,
+                  "height": 82
+                }
+              },
+              "51": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 60,
+                "rect": {
+                  "x": 56,
+                  "y": 83,
+                  "width": 55,
+                  "height": 83
+                }
+              },
+              "52": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 63,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 58,
+                  "height": 82
+                }
+              },
+              "53": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 60,
+                "rect": {
+                  "x": 0,
+                  "y": 167,
+                  "width": 55,
+                  "height": 83
+                }
+              },
+              "54": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 59,
+                "rect": {
+                  "x": 112,
+                  "y": 83,
+                  "width": 54,
+                  "height": 83
+                }
+              },
+              "55": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 59,
+                "rect": {
+                  "x": 59,
+                  "y": 0,
+                  "width": 54,
+                  "height": 82
+                }
+              },
+              "56": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 59,
+                "rect": {
+                  "x": 112,
+                  "y": 167,
+                  "width": 54,
+                  "height": 83
+                }
+              },
+              "57": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 60,
+                "rect": {
+                  "x": 0,
+                  "y": 83,
+                  "width": 55,
+                  "height": 83
+                }
+              },
+              "63": {
+                "xOffset": 0,
+                "yOffset": -28,
+                "xAdvance": 52,
+                "rect": {
+                  "x": 167,
+                  "y": 166,
+                  "width": 47,
+                  "height": 83
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

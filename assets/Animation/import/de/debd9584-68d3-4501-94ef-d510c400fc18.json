@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "96NERyBI1K1aSDU5Eb8LwI"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jhmj_touzi",
+      "rect": [
+        2,
+        2,
+        994,
+        174
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        998,
+        178
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

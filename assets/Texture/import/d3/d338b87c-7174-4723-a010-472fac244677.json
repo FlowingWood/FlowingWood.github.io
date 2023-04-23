@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e9ITMH7SdKurle/h1FDP0U"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "game_list_left",
+      "rect": [
+        0,
+        0,
+        33,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        61
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

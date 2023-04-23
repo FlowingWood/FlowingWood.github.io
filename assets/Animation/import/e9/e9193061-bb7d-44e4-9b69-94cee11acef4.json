@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "abbZYnlVlPrrDLQaEpI+zW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "kdf4",
+      "rect": [
+        2,
+        2,
+        252,
+        933
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        256,
+        937
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

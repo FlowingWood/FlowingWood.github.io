@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "74L9sTPB9F4Z4jnnF7i4Cq"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gold_img_6",
+      "rect": [
+        2,
+        14,
+        113,
+        90
+      ],
+      "offset": [
+        -1.5,
+        1
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

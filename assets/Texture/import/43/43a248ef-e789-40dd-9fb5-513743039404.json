@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2cujy2QidEt4U15ajuavg4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ingot_img_4",
+      "rect": [
+        0,
+        15,
+        115,
+        92
+      ],
+      "offset": [
+        -2.5,
+        -1
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

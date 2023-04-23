@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "37VxYO/xNI+4IZobV62rK+"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "win_bg",
+      "rect": [
+        0,
+        0,
+        1223,
+        415
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1223,
+        415
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

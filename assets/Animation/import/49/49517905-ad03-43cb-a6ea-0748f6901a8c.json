@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "85o9xde75Ow7aypqaP9/1H"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "scmj",
+      "rect": [
+        2,
+        3,
+        402,
+        477
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        406,
+        482
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

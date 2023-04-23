@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b3G96CEs9AGJiO1Nc3SDsZ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "shop_bg",
+      "rect": [
+        0,
+        0,
+        279,
+        385
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        280,
+        385
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

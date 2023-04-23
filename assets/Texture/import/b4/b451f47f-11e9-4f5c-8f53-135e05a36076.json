@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "40b7FoC9NI97WXTSfLsP2L"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "end2",
+      "rect": [
+        0,
+        0,
+        342,
+        358
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        342,
+        358
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

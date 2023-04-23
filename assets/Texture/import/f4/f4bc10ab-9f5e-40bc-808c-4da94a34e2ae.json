@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "fas24g5c9B8a8uiEMZ9kgS"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "get_reward_bg",
+      "rect": [
+        0,
+        4,
+        2000,
+        429
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        2000,
+        433
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

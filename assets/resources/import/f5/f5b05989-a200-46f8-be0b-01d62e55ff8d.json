@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "51DDmgh2FK/bpQO5EST7Og"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "GameChat-em_icon",
+      "rect": [
+        446,
+        584,
+        44,
+        44
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        70,
+        70
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

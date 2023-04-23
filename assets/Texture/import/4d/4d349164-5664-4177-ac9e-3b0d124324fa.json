@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e4mxRHupNCEKMIbeZps3Lc"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ignot_icon",
+      "rect": [
+        1,
+        4,
+        54,
+        47
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        56,
+        54
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

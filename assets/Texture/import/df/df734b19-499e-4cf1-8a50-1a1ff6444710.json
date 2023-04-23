@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "9fOiufPCVOV6LlPkOH714q"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "wx_logon",
+      "rect": [
+        0,
+        0,
+        288,
+        152
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        288,
+        152
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

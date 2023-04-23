@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5cI2rdIrJNdqnthRXgCA+a"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "delete_bnt",
+      "rect": [
+        0,
+        0,
+        232,
+        115
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        232,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

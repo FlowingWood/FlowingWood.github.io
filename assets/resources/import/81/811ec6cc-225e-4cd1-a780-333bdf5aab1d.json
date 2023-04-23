@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6aZfm/rDVOD6M1AbVlY3mP"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lr_add_favorite",
+      "rect": [
+        0,
+        0,
+        270,
+        350
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        270,
+        350
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

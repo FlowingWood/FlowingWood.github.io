@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "98fN/f7elB663RAxv/5ymt"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_ shark",
+      "rect": [
+        0,
+        0,
+        221,
+        219
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        221,
+        219
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

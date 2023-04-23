@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b5uYw4Qg9IOZPZ9lZZoij8"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "drop_choose_1",
+      "rect": [
+        0,
+        0,
+        850,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        850,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

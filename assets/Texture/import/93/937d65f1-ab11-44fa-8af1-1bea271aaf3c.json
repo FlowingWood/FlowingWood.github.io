@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0bh9jSMxVNNo8SWIlPXG5g"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tog_create_0",
+      "rect": [
+        0,
+        0,
+        192,
+        57
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        192,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

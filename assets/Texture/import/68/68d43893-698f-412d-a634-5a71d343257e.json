@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "7bJBYp7OBGupCjPGL8SRm/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "em_icon",
+      "rect": [
+        13,
+        13,
+        44,
+        43
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        70,
+        70
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

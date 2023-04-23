@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "28MWu50mxMdbw1rwEv3XFP"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "hot",
+      "rect": [
+        0,
+        0,
+        38,
+        87
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        38,
+        88
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "24zz7ZIt1IPJ+prdMGlW/y"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lr_room_friend",
+      "rect": [
+        4,
+        5,
+        323,
+        215
+      ],
+      "offset": [
+        1.5,
+        -2.5
+      ],
+      "originalSize": [
+        328,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

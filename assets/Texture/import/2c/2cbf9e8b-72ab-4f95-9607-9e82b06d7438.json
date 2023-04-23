@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "85sOVSmPpP16sYr2NZCkJ/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bar",
+      "rect": [
+        0,
+        0,
+        920,
+        77
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        920,
+        78
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

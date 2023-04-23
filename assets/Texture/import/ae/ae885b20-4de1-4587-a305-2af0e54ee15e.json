@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4e2G5enRhF26xyqlO3pdWG"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "rule_fan_btn_1",
+      "rect": [
+        0,
+        0,
+        220,
+        69
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        220,
+        70
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

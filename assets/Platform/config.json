@@ -1,0 +1,67 @@
+{
+    "paths": {
+        "0e49pLp/xIRKCDSC0/88do": [
+            "huawei/icon",
+            "cc.Texture2D"
+        ],
+        "67DaBSZl5BybRzcl7Nk+3K": [
+            "huawei/icon",
+            "cc.SpriteFrame",
+            1
+        ],
+        "23sS898DtIwJZKAQXGs1nN": [
+            "oppo/icon",
+            "cc.SpriteFrame",
+            1
+        ],
+        "870XysLNhOKLTwA3nxXJtR": [
+            "oppo/icon",
+            "cc.Texture2D"
+        ],
+        "890XysLNhOKLTwA3nxHJtR": [
+            "vivo/icon",
+            "cc.Texture2D"
+        ],
+        "c1rzDiyt1ExLMsAmSdvEbB": [
+            "vivo/icon",
+            "cc.SpriteFrame",
+            1
+        ],
+        "051k5QH19H1L2XK6DYR+k2": [
+            "xiaomi/icon",
+            "cc.Texture2D"
+        ],
+        "fcp6XW2mFEvacnkjmjcekf": [
+            "xiaomi/icon",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "051k5QH19H1L2XK6DYR+k2",
+        "0e49pLp/xIRKCDSC0/88do",
+        "23sS898DtIwJZKAQXGs1nN",
+        "67DaBSZl5BybRzcl7Nk+3K",
+        "870XysLNhOKLTwA3nxXJtR",
+        "890XysLNhOKLTwA3nxHJtR",
+        "c1rzDiyt1ExLMsAmSdvEbB",
+        "fcp6XW2mFEvacnkjmjcekf"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "04c2e80e9": [
+            "051k5QH19H1L2XK6DYR+k2",
+            "0e49pLp/xIRKCDSC0/88do",
+            "870XysLNhOKLTwA3nxXJtR",
+            "890XysLNhOKLTwA3nxHJtR"
+        ]
+    },
+    "name": "Platform",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

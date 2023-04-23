@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0abczcJsBALLwMcOGRJSjK"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lr_rule_basic_1",
+      "rect": [
+        13,
+        6,
+        575,
+        359
+      ],
+      "offset": [
+        -37.5,
+        0.5
+      ],
+      "originalSize": [
+        676,
+        372
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

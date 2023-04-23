@@ -1,0 +1,486 @@
+[
+  1,
+  [
+    "27I6EVsBxIs5npgFqHzHRA",
+    "1dysZmyYRFG7t3jp46FNKF",
+    "9eVgU7fcFGw7rmT80JNPvW",
+    "8b55AKkwVLYJJoMfuQZEl6",
+    "22DhirxbxE0ogE3fFqXBLe",
+    "4dQn3cJdNMy4C4xeJr71rV",
+    "6f5QZ3GYBFyYJsuaKoVJ3u",
+    "24T78sgiJP2rJhEdVnDBgC",
+    "1aXZvT1XdIbJr1wlVfZm5H",
+    "67gf+e7HhF/7xCsAV3q84L"
+  ],
+  [
+    "_textureSetter",
+    "buhua",
+    "chi",
+    "gang",
+    "hu",
+    "own_block_bg",
+    "peng",
+    "quanquan1",
+    "quanquan2",
+    "ting"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "quanquan2",
+          "rect": [
+            246,
+            428,
+            156,
+            158
+          ],
+          "offset": [
+            0,
+            5
+          ],
+          "originalSize": [
+            250,
+            250
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "buhua",
+          "rect": [
+            2,
+            376,
+            186,
+            116
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            190,
+            120
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hu",
+          "rect": [
+            248,
+            2,
+            228,
+            170
+          ],
+          "offset": [
+            -9,
+            0
+          ],
+          "originalSize": [
+            250,
+            170
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "quanquan1",
+          "rect": [
+            2,
+            2,
+            244,
+            242
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            250,
+            250
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "own_block_bg",
+          "rect": [
+            198,
+            298,
+            66,
+            102
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            66,
+            102
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ting",
+          "rect": [
+            120,
+            376,
+            176,
+            124
+          ],
+          "offset": [
+            5,
+            2
+          ],
+          "originalSize": [
+            220,
+            130
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "peng",
+          "rect": [
+            248,
+            174,
+            200,
+            122
+          ],
+          "offset": [
+            -10,
+            0
+          ],
+          "originalSize": [
+            220,
+            130
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "gang",
+          "rect": [
+            2,
+            246,
+            194,
+            128
+          ],
+          "offset": [
+            -6,
+            1
+          ],
+          "originalSize": [
+            220,
+            130
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "chi",
+          "rect": [
+            302,
+            298,
+            174,
+            128
+          ],
+          "offset": [
+            1,
+            0
+          ],
+          "originalSize": [
+            220,
+            130
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "chi_peng_gang_hu_ting.plist",
+          [
+            {},
+            "buhua",
+            6,
+            0,
+            "chi",
+            6,
+            1,
+            "gang",
+            6,
+            2,
+            "hu",
+            6,
+            3,
+            "own_block_bg",
+            6,
+            4,
+            "peng",
+            6,
+            5,
+            "quanquan1",
+            6,
+            6,
+            "quanquan2",
+            6,
+            7,
+            "ting",
+            6,
+            8
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    ]
+  ]
+]

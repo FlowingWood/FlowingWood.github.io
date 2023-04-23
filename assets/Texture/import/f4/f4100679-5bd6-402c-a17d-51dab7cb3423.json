@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "768LsnVjJDRbW4WT51WdBY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "redpackage_icon",
+      "rect": [
+        0,
+        0,
+        24,
+        33
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        24,
+        34
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

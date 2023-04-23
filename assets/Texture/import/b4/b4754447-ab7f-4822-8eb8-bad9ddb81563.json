@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2aoYfoqrxB9oJMAUZ2XW7u"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "watch_button",
+      "rect": [
+        1,
+        1,
+        196,
+        68
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        197,
+        70
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

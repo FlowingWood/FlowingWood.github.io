@@ -1,0 +1,391 @@
+[
+  1,
+  [
+    "34G6Ot0MVFvYlNKotATCx4",
+    "7fmAKwMOJJ2ZY8BXEnL79T",
+    "3ekTkGXYhMDZ2BEobk1kEN",
+    "81g+U94DRBO7FPXi4nyA3w",
+    "29/rsd5ZlBt7LDiHjLwprX",
+    "9cbxwds+dIGq/oHUp2ZcWU",
+    "dbugmddHJJ9pUfTxq0Zuj/",
+    "0fJDqlPgNGsaweLPw8qwXe"
+  ],
+  [
+    "_textureSetter",
+    "ljbtx_1",
+    "ljbtx_2",
+    "ljbtx_3",
+    "ljbtx_4",
+    "ljbtx_5",
+    "ljbtx_6",
+    "ljbtx_7"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "ljbtx_7",
+          "rect": [
+            236,
+            702,
+            216,
+            232
+          ],
+          "offset": [
+            1,
+            0
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_4",
+          "rect": [
+            2,
+            2,
+            232,
+            236
+          ],
+          "offset": [
+            1,
+            1
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_2",
+          "rect": [
+            2,
+            472,
+            230,
+            232
+          ],
+          "offset": [
+            -1,
+            -3
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_1",
+          "rect": [
+            240,
+            2,
+            232,
+            236
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_3",
+          "rect": [
+            238,
+            468,
+            232,
+            232
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_5",
+          "rect": [
+            238,
+            236,
+            230,
+            234
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "weixingdating_ljbtx.plist",
+          [
+            {},
+            "ljbtx_1",
+            6,
+            0,
+            "ljbtx_2",
+            6,
+            1,
+            "ljbtx_3",
+            6,
+            2,
+            "ljbtx_4",
+            6,
+            3,
+            "ljbtx_5",
+            6,
+            4,
+            "ljbtx_6",
+            6,
+            5,
+            "ljbtx_7",
+            6,
+            6
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ljbtx_6",
+          "rect": [
+            2,
+            236,
+            234,
+            234
+          ],
+          "offset": [
+            3,
+            0
+          ],
+          "originalSize": [
+            240,
+            240
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d2QiEQG7ZP8rw1fPKpufui"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_notask",
+      "rect": [
+        0,
+        0,
+        278,
+        282
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        278,
+        282
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

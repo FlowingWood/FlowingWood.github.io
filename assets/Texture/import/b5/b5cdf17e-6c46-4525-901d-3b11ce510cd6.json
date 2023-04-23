@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b0B1y6UnVEh7Fqn+fS/OIg"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "rule_score_btn_1",
+      "rect": [
+        0,
+        0,
+        220,
+        69
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        220,
+        70
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "86v+y+ahVFEYHGQx6+8PLX"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "join_title",
+      "rect": [
+        0,
+        0,
+        340,
+        59
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        340,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

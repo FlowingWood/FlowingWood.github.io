@@ -1,0 +1,147 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "config",
+      {
+        "lobby_version": "3.0.0",
+        "app_version": "",
+        "kind_id": 150,
+        "game_id": 150,
+        "keyword": "LaoJiaYouMajiang",
+        "area_id": 3,
+        "logon_type": "Test",
+        "post_error": true,
+        "force_startup_scene": "",
+        "force_use_http": true,
+        "force_use_https": false,
+        "wechat": {
+          "version": 523,
+          "appid": "wx1866673de1087537",
+          "package_name": "",
+          "midas_offer_id": "1450018440",
+          "midas_env": 0
+        },
+        "huawei": {
+          "version": 501,
+          "appid": "100945759",
+          "cpid": "900086000021544933",
+          "pay_pkey": "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMyKaO/0ekDylgJH/hv3jayFzJ/w71zQd802j76i5f4niuJRsbXLSY4fvccgqFeLJnwWmsjgBWsRtzx8oSC3tvUCAwEAAQ==",
+          "package_name": "cn.bookse.shaoxingmajiang.mini.huawei",
+          "versionCode_hw": 1
+        },
+        "vivo": {
+          "version": 500,
+          "package_name": "cn.bookse.BaoHuang.mini.vivo"
+        },
+        "oppo": {
+          "version": 510,
+          "appid": "30250380",
+          "appkey": "Cekch35nuHW08O8g80KkoS84o",
+          "package_name": "cn.bookse.minishaoxingmajiang.kyx.nearme.gamecenter",
+          "version_name": "1.0.10"
+        },
+        "baidu": {
+          "version": 511,
+          "appid": "16917946",
+          "appkey": "oUnDvb01KhX34V1IERNEQ4ScgrK6PSud",
+          "dealid": "1040593755",
+          "cpid": "16000",
+          "cpkey": "MMMuf3"
+        },
+        "qq": {
+          "version": 501,
+          "appid": "101494197",
+          "qqgameid": "6150"
+        },
+        "game_scene_name": [
+          {
+            "id": 150,
+            "loadscene": "gameYiFu"
+          },
+          {
+            "id": 152,
+            "loadscene": "gameErRenMaJiang"
+          }
+        ],
+        "game_rule_tab_order": [
+          {
+            "id": 218,
+            "order": [
+              "rule_basic_",
+              "rule_score_",
+              "rule_fan_",
+              "rule_special_"
+            ]
+          }
+        ],
+        "logon_config": [
+          {
+            "type": "Online",
+            "protocol": "wss",
+            "addr": "slg1.bookse.cn",
+            "nav_pay_appid": "wx40bed78e11a6f498",
+            "nav_pay_env": "trial"
+          },
+          {
+            "type": "Demo",
+            "protocol": "ws",
+            "addr": "demo.bookse.cn",
+            "nav_pay_appid": "wx40bed78e11a6f498",
+            "nav_pay_env": "trial"
+          },
+          {
+            "type": "Test",
+            "protocol": "ws",
+            "addr": "test.bookse.cn",
+            "nav_pay_appid": "wx40bed78e11a6f498",
+            "nav_pay_env": "trial"
+          }
+        ],
+        "custom_logon_server": {
+          "enable": false,
+          "addr": "192.168.0.177"
+        },
+        "custom_game_server": {
+          "enable": false,
+          "addr": "127.0.0.1"
+        },
+        "custom_push_server": {
+          "enable": true,
+          "addr": "test.bookse.cn",
+          "port": 10001
+        },
+        "default_passport": {
+          "account": "test396",
+          "password": "111111"
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

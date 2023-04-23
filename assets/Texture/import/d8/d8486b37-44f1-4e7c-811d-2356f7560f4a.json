@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6duVfdI4xNnrRAIFttOzKe"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "circle_choose",
+      "rect": [
+        4,
+        5,
+        26,
+        27
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        34,
+        36
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

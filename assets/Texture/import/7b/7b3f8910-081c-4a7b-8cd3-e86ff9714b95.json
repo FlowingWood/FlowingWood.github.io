@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a52Q7xsVRP9oNhF0PFCqsw"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "feedback",
+      "rect": [
+        3,
+        4,
+        76,
+        80
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        80,
+        84
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

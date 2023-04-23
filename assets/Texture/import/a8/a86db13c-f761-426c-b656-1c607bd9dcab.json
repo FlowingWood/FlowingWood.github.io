@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d0+eHMiKxESp4a8qYHvxCN"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "icon_addr",
+      "rect": [
+        0,
+        0,
+        39,
+        37
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        39,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

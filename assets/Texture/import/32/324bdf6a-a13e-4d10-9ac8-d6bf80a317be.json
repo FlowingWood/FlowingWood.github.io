@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "989pIlffxA1KVAz1eEzpju"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "feedbackicon",
+      "rect": [
+        3,
+        3,
+        42,
+        41
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

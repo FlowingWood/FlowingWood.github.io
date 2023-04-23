@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "75ZCtH2FpBA6o1Z0hIesmv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mail_have_read",
+      "rect": [
+        0,
+        1,
+        44,
+        44
+      ],
+      "offset": [
+        -2,
+        1
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

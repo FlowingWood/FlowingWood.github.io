@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "88Bj3eruBMJKeCGgKtWKuK"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "icon_daliy",
+      "rect": [
+        1,
+        16,
+        112,
+        101
+      ],
+      "offset": [
+        -3,
+        -6.5
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

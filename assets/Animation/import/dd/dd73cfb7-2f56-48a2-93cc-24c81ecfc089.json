@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bbKRnzq9hGw42G70tWsmzb"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "sxmj",
+      "rect": [
+        2,
+        2,
+        885,
+        224
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        889,
+        228
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

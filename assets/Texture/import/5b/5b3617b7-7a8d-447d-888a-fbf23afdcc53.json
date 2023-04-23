@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "316OnEEkdAR7uwYnSEKr9Y"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tab_gold_mall_0",
+      "rect": [
+        18,
+        12,
+        186,
+        91
+      ],
+      "offset": [
+        -2,
+        -2.5
+      ],
+      "originalSize": [
+        226,
+        110
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

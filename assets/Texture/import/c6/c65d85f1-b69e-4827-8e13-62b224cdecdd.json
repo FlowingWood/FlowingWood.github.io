@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a6W1D4wsFFwbR0ZPsRXD7e"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gold_bg",
+      "rect": [
+        0,
+        0,
+        107,
+        32
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        108,
+        32
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

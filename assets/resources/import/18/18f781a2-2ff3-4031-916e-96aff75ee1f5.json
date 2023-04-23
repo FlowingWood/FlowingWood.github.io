@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5b/3CzJIFKCo7hdTYXucy/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "table",
+      "rect": [
+        2,
+        3,
+        502,
+        655
+      ],
+      "offset": [
+        -3,
+        181.5
+      ],
+      "originalSize": [
+        512,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

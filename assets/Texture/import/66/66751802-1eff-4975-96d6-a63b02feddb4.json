@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "73ZPPdS0hPqbob6gdQOaLN"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "rewrad3",
+      "rect": [
+        16,
+        22,
+        84,
+        54
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        117,
+        98
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

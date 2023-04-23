@@ -1,0 +1,97 @@
+[
+  1,
+  [
+    "edmxgQY6VOLrt6ZFFviDBy"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "corner_gang",
+          "rect": [
+            988,
+            194,
+            44,
+            30
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            44,
+            30
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "corner_chu",
+          "rect": [
+            988,
+            240,
+            44,
+            30
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            44,
+            30
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

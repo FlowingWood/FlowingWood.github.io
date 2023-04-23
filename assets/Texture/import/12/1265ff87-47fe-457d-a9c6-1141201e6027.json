@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "02BG7d0vBAfYpPzqfeZPOw"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_btn02",
+      "rect": [
+        1,
+        0,
+        147,
+        54
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        148,
+        54
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

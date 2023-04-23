@@ -1,0 +1,62 @@
+
+dh_cpght.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 1, 426
+  size: 173, 127
+  orig: 173, 127
+  offset: 0, 0
+  index: -1
+quanquan1
+  rotate: false
+  xy: 1, 1
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+own_block_bg
+  rotate: false
+  xy: 441, 172
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+quanquan2
+  rotate: false
+  xy: 1, 245
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 246, 1
+  size: 228, 169
+  orig: 228, 169
+  offset: 0, 0
+  index: -1
+ting
+  rotate: false
+  xy: 176, 426
+  size: 175, 123
+  orig: 175, 123
+  offset: 0, 0
+  index: -1
+gang
+  rotate: false
+  xy: 246, 172
+  size: 193, 128
+  orig: 193, 128
+  offset: 0, 0
+  index: -1
+peng
+  rotate: false
+  xy: 159, 302
+  size: 199, 122
+  orig: 199, 122
+  offset: 0, 0
+  index: -1

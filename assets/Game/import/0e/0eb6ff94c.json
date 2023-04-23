@@ -1,0 +1,223 @@
+[
+  1,
+  [
+    "feWC7NGtBA8KL1lZEo6OvS",
+    "45KkKvajtEhaYglMcCXaiJ"
+  ],
+  [
+    "spriteFrame",
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        [
+          0,
+          "ermj-pmss-ying",
+          100,
+          {
+            "commonHeight": 121,
+            "fontSize": 100,
+            "atlasName": "ermj-pmss-ying.png",
+            "fontDefDictionary": {
+              "32": {
+                "xOffset": 0,
+                "yOffset": 106,
+                "xAdvance": 50,
+                "rect": {
+                  "x": 99,
+                  "y": 166,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "48": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 57,
+                "rect": {
+                  "x": 127,
+                  "y": 2,
+                  "width": 59,
+                  "height": 80
+                }
+              },
+              "49": {
+                "xOffset": -1,
+                "yOffset": 28,
+                "xAdvance": 38,
+                "rect": {
+                  "x": 61,
+                  "y": 166,
+                  "width": 36,
+                  "height": 80
+                }
+              },
+              "50": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 58,
+                "rect": {
+                  "x": 65,
+                  "y": 2,
+                  "width": 60,
+                  "height": 80
+                }
+              },
+              "51": {
+                "xOffset": 1,
+                "yOffset": 28,
+                "xAdvance": 57,
+                "rect": {
+                  "x": 2,
+                  "y": 166,
+                  "width": 57,
+                  "height": 80
+                }
+              },
+              "52": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 58,
+                "rect": {
+                  "x": 2,
+                  "y": 2,
+                  "width": 61,
+                  "height": 80
+                }
+              },
+              "53": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 58,
+                "rect": {
+                  "x": 124,
+                  "y": 84,
+                  "width": 58,
+                  "height": 80
+                }
+              },
+              "54": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 57,
+                "rect": {
+                  "x": 188,
+                  "y": 2,
+                  "width": 59,
+                  "height": 80
+                }
+              },
+              "55": {
+                "xOffset": 1,
+                "yOffset": 28,
+                "xAdvance": 58,
+                "rect": {
+                  "x": 184,
+                  "y": 84,
+                  "width": 57,
+                  "height": 80
+                }
+              },
+              "56": {
+                "xOffset": 1,
+                "yOffset": 28,
+                "xAdvance": 58,
+                "rect": {
+                  "x": 63,
+                  "y": 84,
+                  "width": 59,
+                  "height": 80
+                }
+              },
+              "57": {
+                "xOffset": 0,
+                "yOffset": 28,
+                "xAdvance": 57,
+                "rect": {
+                  "x": 2,
+                  "y": 84,
+                  "width": 59,
+                  "height": 80
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "ermj-pmss-ying",
+          "rect": [
+            2,
+            6,
+            244,
+            240
+          ],
+          "offset": [
+            -4,
+            2
+          ],
+          "originalSize": [
+            256,
+            256
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

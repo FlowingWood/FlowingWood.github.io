@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "43NzyH96xBnb+cd1w5mqG/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_week_tab02",
+      "rect": [
+        0,
+        0,
+        169,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        169,
+        78
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

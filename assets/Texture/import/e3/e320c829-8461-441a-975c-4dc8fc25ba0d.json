@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8bz+XccapKG4KIFodzBx4N"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "delete_press",
+      "rect": [
+        0,
+        0,
+        232,
+        115
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        232,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

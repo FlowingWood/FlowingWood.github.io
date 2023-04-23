@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c8+fRBRCNCzZloKfRXnxsS"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "need_gold_bg",
+      "rect": [
+        0,
+        0,
+        976,
+        619
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        976,
+        619
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

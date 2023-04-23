@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4e02qNC/RPurGag2syKRuS"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "label_top",
+      "rect": [
+        0,
+        0,
+        836,
+        99
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        836,
+        99
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "08eD4w/s1DvorF7EkCMD7c"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "hint",
+      "rect": [
+        0,
+        0,
+        955,
+        80
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        956,
+        80
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

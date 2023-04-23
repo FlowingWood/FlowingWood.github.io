@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e1tzS+duBKFoKxjX3qoFsB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "erd_updeta",
+      "rect": [
+        2,
+        2,
+        391,
+        237
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        395,
+        241
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "81RS0cfy9DZKQltGR3VIU+"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "redpackage_big",
+      "rect": [
+        0,
+        0,
+        222,
+        348
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        222,
+        348
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

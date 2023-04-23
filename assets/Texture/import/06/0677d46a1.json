@@ -1,0 +1,1608 @@
+[
+  1,
+  [
+    "c6r/QAi5VLN4L9yF7mqmVz",
+    "76bWINWS1AuJmxIs2Vx5R6",
+    "41C7+eYqhO2r4xp5Ju25dR",
+    "fb/eNMZfdNvZd3fYOeliOk",
+    "40h0MMq3VC/5ksNUg5fcSR",
+    "d5mEPhZn1DjYruXbkeUPWg",
+    "17dgFDQllM+I4CcjZWC7+T",
+    "9b71EvrTFKNLGkAyyhjjv7",
+    "2evwV6AANMz7Ks5h/W42cn",
+    "94FjmJWaBEg6lUa7M6ir3r",
+    "62cw0tSFVJGLyOYzNGD7RO",
+    "4dVElr/XVPfK57eSyUc34G",
+    "edSVQegi9EALiyIBgQW6SH",
+    "3cFzIzKetAaKDF1T583nGr",
+    "2apPucP0ZOHJu9z5fYPH0H",
+    "96Akhx5apFiY9ozYrvKNhU",
+    "31f2EUke1GEquhHlcIuJDZ",
+    "324lkRvNtO0JZRUWIo4y7S",
+    "78vJW72Q5BV4S9XiSRrgQs",
+    "d8ebsEw05L77GUNhtJBNIA",
+    "b4H+p2ceJBZYkcrJ0A5sbM",
+    "2cHNJfhEBIBpY8xzdWHsV7",
+    "a7h/06/KJAwpx1wyTXG+fZ",
+    "2avWl83HRESYSS34ktkBiw",
+    "2bAr1AlWNHEoJxXWB/CMXP",
+    "93DMQcTkJBhJ9EHKZv2PFF",
+    "4fre5weelFI6uPWToC3IiR",
+    "beztvMYUlBqpuYrehziEaV",
+    "973InM+FFCZrrtuWnpnI8a",
+    "6e0NVG+ldNUY56uCpT+5Nh",
+    "21nMkfXLpLPKpEN0ReqjUC",
+    "5dZ4a2lSxFA4ftkOXgij+9",
+    "37pb74fQlAxrwFfNa2S6Sd",
+    "ceVeCXxbVBe6QF3WLnYjPn",
+    "74pp3vxV9PbKRWhD27LFoy",
+    "66wknsxBVCcIFmTUtERcB7",
+    "faGrzGKzBGEZnZRd9CUQF1",
+    "96V+vdwdZI4rpbEtldiRWd",
+    "daCiEGPVJJl7Wwx2nXq3Bs",
+    "0dGUBHz5hLLLsfrtTSfWoG",
+    "eeZUMFWZNMVZqP7khbKwDw",
+    "abO1fI6XhKE5Ut1VaHEHV8",
+    "a4O88YnIhGWK8zCRQZxH3B",
+    "edOtAlPr5NY6rRXgrx/78k",
+    "0aYSWz/hJP/6D7DDJJxYo1",
+    "5aAhGlWnhINKuIFEaRISjD",
+    "13LNKzEMxBUIRHAoAvncWY",
+    "1bJjE7p0RIUrirj9JxJRjR",
+    "66pPv34gNDKo3EDZHB3DUg"
+  ],
+  [
+    "_textureSetter",
+    "1-add",
+    "1-cancel",
+    "1-close",
+    "1-contact",
+    "1-create",
+    "1-delete",
+    "1-edit",
+    "1-feedback",
+    "1-feedbackicon",
+    "1-hint",
+    "1-ok",
+    "1-pop",
+    "1-relogon",
+    "1-select",
+    "1-service",
+    "1-slot",
+    "1-small_bg",
+    "1-submit",
+    "1-tutorial_reset",
+    "2-back",
+    "2-big_bg",
+    "2-c0",
+    "2-c13",
+    "2-c4",
+    "2-create",
+    "2-line",
+    "2-next",
+    "2-pre",
+    "2-scrollbar",
+    "2-title_l",
+    "2-title_r",
+    "2-toggle_bg",
+    "2-toggle_check",
+    "3-edit",
+    "3-editbox",
+    "3-finish",
+    "3-hint",
+    "3-new",
+    "3-pop",
+    "3-ratio_bg",
+    "3-ratio_check",
+    "hint-bg_bottom",
+    "hint-bg_top",
+    "hint-bubble_bottom",
+    "hint-bubble_top",
+    "hint-grid",
+    "hint-next",
+    "hint-ok"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "hint-bubble_bottom",
+          "rect": [
+            240,
+            1344,
+            258,
+            104
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            258,
+            104
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hint-grid",
+          "rect": [
+            356,
+            1090,
+            100,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            10,
+            10,
+            10,
+            10
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-delete",
+          "rect": [
+            382,
+            1974,
+            110,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            110,
+            60
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-title_l",
+          "rect": [
+            356,
+            962,
+            106,
+            32
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            106,
+            32
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-c13",
+          "rect": [
+            1938,
+            582,
+            52,
+            26
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            52,
+            26
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-c4",
+          "rect": [
+            1938,
+            534,
+            52,
+            26
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            52,
+            26
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-big_bg",
+          "rect": [
+            12,
+            12,
+            1200,
+            680
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            1200,
+            680
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-toggle_bg",
+          "rect": [
+            424,
+            1212,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-line",
+          "rect": [
+            2016,
+            12,
+            640,
+            2
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            640,
+            2
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hint-bubble_top",
+          "rect": [
+            114,
+            1344,
+            278,
+            104
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            278,
+            104
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-title_r",
+          "rect": [
+            334,
+            800,
+            106,
+            32
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            106,
+            32
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-scrollbar",
+          "rect": [
+            2012,
+            674,
+            2,
+            234
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            2,
+            234
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-edit",
+          "rect": [
+            478,
+            1042,
+            36,
+            36
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            36,
+            36
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-add",
+          "rect": [
+            1928,
+            678,
+            262,
+            62
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            262,
+            62
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-create",
+          "rect": [
+            388,
+            880,
+            48,
+            48
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            48,
+            48
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-hint",
+          "rect": [
+            424,
+            1274,
+            30,
+            30
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            30,
+            30
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-pre",
+          "rect": [
+            182,
+            714,
+            154,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            60
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-edit",
+          "rect": [
+            94,
+            1908,
+            110,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            110,
+            60
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-c0",
+          "rect": [
+            1938,
+            630,
+            52,
+            26
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            52,
+            26
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-ratio_check",
+          "rect": [
+            258,
+            1996,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-back",
+          "rect": [
+            224,
+            1644,
+            154,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            60
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-next",
+          "rect": [
+            176,
+            1866,
+            154,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            60
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "custom_lobby.plist",
+          [
+            {},
+            "1-add",
+            6,
+            0,
+            "1-cancel",
+            6,
+            1,
+            "1-close",
+            6,
+            2,
+            "1-contact",
+            6,
+            3,
+            "1-create",
+            6,
+            4,
+            "1-delete",
+            6,
+            5,
+            "1-edit",
+            6,
+            6,
+            "1-feedback",
+            6,
+            7,
+            "1-feedbackicon",
+            6,
+            8,
+            "1-hint",
+            6,
+            9,
+            "1-ok",
+            6,
+            10,
+            "1-pop",
+            6,
+            11,
+            "1-relogon",
+            6,
+            12,
+            "1-select",
+            6,
+            13,
+            "1-service",
+            6,
+            14,
+            "1-slot",
+            6,
+            15,
+            "1-small_bg",
+            6,
+            16,
+            "1-submit",
+            6,
+            17,
+            "1-tutorial_reset",
+            6,
+            18,
+            "2-back",
+            6,
+            19,
+            "2-big_bg",
+            6,
+            20,
+            "2-c0",
+            6,
+            21,
+            "2-c13",
+            6,
+            22,
+            "2-c4",
+            6,
+            23,
+            "2-create",
+            6,
+            24,
+            "2-line",
+            6,
+            25,
+            "2-next",
+            6,
+            26,
+            "2-pre",
+            6,
+            27,
+            "2-scrollbar",
+            6,
+            28,
+            "2-title_l",
+            6,
+            29,
+            "2-title_r",
+            6,
+            30,
+            "2-toggle_bg",
+            6,
+            31,
+            "2-toggle_check",
+            6,
+            32,
+            "3-edit",
+            6,
+            33,
+            "3-editbox",
+            6,
+            34,
+            "3-finish",
+            6,
+            35,
+            "3-hint",
+            6,
+            36,
+            "3-new",
+            6,
+            37,
+            "3-pop",
+            6,
+            38,
+            "3-ratio_bg",
+            6,
+            39,
+            "3-ratio_check",
+            6,
+            40,
+            "hint-bg_bottom",
+            6,
+            41,
+            "hint-bg_top",
+            6,
+            42,
+            "hint-bubble_bottom",
+            6,
+            43,
+            "hint-bubble_top",
+            6,
+            44,
+            "hint-grid",
+            6,
+            45,
+            "hint-next",
+            6,
+            46,
+            "hint-ok",
+            6,
+            47
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-toggle_check",
+          "rect": [
+            366,
+            1326,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-create",
+          "rect": [
+            306,
+            1624,
+            154,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            60
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-tutorial_reset",
+          "rect": [
+            410,
+            962,
+            58,
+            50
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            58,
+            50
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-new",
+          "rect": [
+            196,
+            1244,
+            78,
+            30
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            78,
+            30
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "1-pop",
+          "rect": [
+            182,
+            800,
+            140,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            140,
+            66
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-ratio_bg",
+          "rect": [
+            320,
+            1996,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "3-finish",
+          "rect": [
+            100,
+            714,
+            154,
+            60
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            60
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

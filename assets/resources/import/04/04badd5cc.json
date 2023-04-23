@@ -1,0 +1,727 @@
+[
+  1,
+  [
+    "30hBOQVtlF77WGNgihjF9r",
+    "880WKzWr9OQqrVh2iHXynr",
+    "0f2Pt76J5Ln7dOpYzvSRmt",
+    "be9EyKtV5Lg6KL+MVoeXWu",
+    "d7poJvvq1MZ5orGukww/E3",
+    "b548YF0Z5KsYnqqnUU7iXr",
+    "a7rWccsyJO073FiG5NqK3o",
+    "68QVuzwSpM65wCyges3Vac",
+    "40manG3ANM7rlMHYjDmAdN",
+    "03g0yEkOhF2JmKJWTYmAVq",
+    "c652UHrpZF/5WlcCD/+eZO",
+    "b0iamnR1VETKJTMDQWmTva",
+    "f0H8EXduFMkrOr81JjcV6o",
+    "9b5K7TFhZKUZDHhxIDeCxk",
+    "dbk1v3Y9lEqpuQF38RzZFd"
+  ],
+  [
+    "_textureSetter",
+    "lr_game",
+    "lr_label_0",
+    "lr_label_1",
+    "lr_room_beginner",
+    "lr_room_expert",
+    "lr_room_friend",
+    "lr_room_master",
+    "lr_room_medium",
+    "lr_rule_basic_0",
+    "lr_rule_fan_0",
+    "lr_rule_score_0",
+    "lr_rule_score_1",
+    "lr_rule_tab_0",
+    "lr_rule_tab_1"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "lr_rule_basic_0",
+          "rect": [
+            1512,
+            2,
+            672,
+            533
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            676,
+            533
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_label_0",
+          "rect": [
+            1846,
+            676,
+            274,
+            93
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            274,
+            93
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_room_medium",
+          "rect": [
+            2,
+            676,
+            328,
+            220
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            328,
+            220
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_room_master",
+          "rect": [
+            332,
+            676,
+            328,
+            220
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            328,
+            220
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_game",
+          "rect": [
+            1512,
+            676,
+            332,
+            236
+          ],
+          "offset": [
+            0,
+            4
+          ],
+          "originalSize": [
+            350,
+            266
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_rule_tab_0",
+          "rect": [
+            1836,
+            952,
+            186,
+            92
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            226,
+            110
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_room_friend",
+          "rect": [
+            1512,
+            914,
+            322,
+            216
+          ],
+          "offset": [
+            3,
+            -2
+          ],
+          "originalSize": [
+            328,
+            220
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_rule_score_0",
+          "rect": [
+            854,
+            599,
+            656,
+            508
+          ],
+          "offset": [
+            3,
+            -1
+          ],
+          "originalSize": [
+            676,
+            510
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_room_expert",
+          "rect": [
+            2,
+            898,
+            328,
+            220
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            328,
+            220
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_label_1",
+          "rect": [
+            1846,
+            676,
+            274,
+            93
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            274,
+            93
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_rule_fan_0",
+          "rect": [
+            2,
+            2,
+            672,
+            850
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            676,
+            850
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "game_textures.plist",
+          [
+            {},
+            "lr_game",
+            6,
+            0,
+            "lr_label_0",
+            6,
+            1,
+            "lr_label_1",
+            6,
+            2,
+            "lr_room_beginner",
+            6,
+            3,
+            "lr_room_expert",
+            6,
+            4,
+            "lr_room_friend",
+            6,
+            5,
+            "lr_room_master",
+            6,
+            6,
+            "lr_room_medium",
+            6,
+            7,
+            "lr_rule_basic_0",
+            6,
+            8,
+            "lr_rule_fan_0",
+            6,
+            9,
+            "lr_rule_score_0",
+            6,
+            10,
+            "lr_rule_score_1",
+            6,
+            11,
+            "lr_rule_tab_0",
+            6,
+            12,
+            "lr_rule_tab_1",
+            6,
+            13
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_room_beginner",
+          "rect": [
+            332,
+            898,
+            328,
+            220
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            328,
+            220
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_rule_tab_1",
+          "rect": [
+            662,
+            676,
+            226,
+            110
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            226,
+            110
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "lr_rule_score_1",
+          "rect": [
+            854,
+            2,
+            656,
+            595
+          ],
+          "offset": [
+            3,
+            0
+          ],
+          "originalSize": [
+            676,
+            595
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

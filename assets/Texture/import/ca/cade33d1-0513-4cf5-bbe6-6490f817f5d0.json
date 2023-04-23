@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b8sKd+M4lK070fBuOqPzk/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "chat_useful",
+      "rect": [
+        13,
+        0,
+        77,
+        26
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        104,
+        26
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

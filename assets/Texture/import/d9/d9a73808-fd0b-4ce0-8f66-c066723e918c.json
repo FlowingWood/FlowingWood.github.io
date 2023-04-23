@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "09MIRlDKROHIEnURQsVllR"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "label_cost_hint",
+      "rect": [
+        0,
+        0,
+        569,
+        22
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        570,
+        22
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8d/qO9Pj9OoqVczix9EF3B"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "erddz",
+      "rect": [
+        2,
+        2,
+        987,
+        224
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        991,
+        228
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

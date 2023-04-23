@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f4TlT6baVI/5W7NXodJ4/s"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tutorial_reset",
+      "rect": [
+        1,
+        1,
+        56,
+        48
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        50
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

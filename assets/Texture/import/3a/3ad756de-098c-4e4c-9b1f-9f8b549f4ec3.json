@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d0TFZAJ+NECrnjDPT82tyS"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_v_sign",
+      "rect": [
+        0,
+        0,
+        197,
+        71
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        197,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,256 @@
+[
+  1,
+  [
+    "e1EeFZ0tZNoJPXqiF9VjcI",
+    "a24S5oxMJPBYPPuD0mPEBr"
+  ],
+  [
+    "_textureSetter",
+    "spriteFrame"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "number_yifumajiang_huafen_jian",
+          "rect": [
+            3,
+            4,
+            117,
+            95
+          ],
+          "offset": [
+            -2.5,
+            12.5
+          ],
+          "originalSize": [
+            128,
+            128
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "number_yifumajiang_huafen_jian",
+          30,
+          {
+            "commonHeight": 36,
+            "fontSize": 30,
+            "atlasName": "number_yifumajiang_huafen_jian.png",
+            "fontDefDictionary": {
+              "32": {
+                "xOffset": 0,
+                "yOffset": 31,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 89,
+                  "y": 71,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "45": {
+                "xOffset": -1,
+                "yOffset": 11,
+                "xAdvance": 18,
+                "rect": {
+                  "x": 65,
+                  "y": 71,
+                  "width": 22,
+                  "height": 11
+                }
+              },
+              "48": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 18,
+                "rect": {
+                  "x": 2,
+                  "y": 40,
+                  "width": 22,
+                  "height": 29
+                }
+              },
+              "49": {
+                "xOffset": -2,
+                "yOffset": 2,
+                "xAdvance": 11,
+                "rect": {
+                  "x": 48,
+                  "y": 71,
+                  "width": 15,
+                  "height": 29
+                }
+              },
+              "50": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 26,
+                  "y": 40,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "51": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 49,
+                  "y": 40,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "52": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 74,
+                  "y": 2,
+                  "width": 23,
+                  "height": 29
+                }
+              },
+              "53": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 72,
+                  "y": 40,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "54": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 18,
+                "rect": {
+                  "x": 95,
+                  "y": 40,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "55": {
+                "xOffset": -2,
+                "yOffset": 2,
+                "xAdvance": 16,
+                "rect": {
+                  "x": 99,
+                  "y": 2,
+                  "width": 22,
+                  "height": 29
+                }
+              },
+              "56": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 2,
+                  "y": 71,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "57": {
+                "xOffset": -1,
+                "yOffset": 2,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 25,
+                  "y": 71,
+                  "width": 21,
+                  "height": 29
+                }
+              },
+              "20998": {
+                "xOffset": -1,
+                "yOffset": -1,
+                "xAdvance": 30,
+                "rect": {
+                  "x": 2,
+                  "y": 2,
+                  "width": 35,
+                  "height": 36
+                }
+              },
+              "21010": {
+                "xOffset": -1,
+                "yOffset": -1,
+                "xAdvance": 30,
+                "rect": {
+                  "x": 39,
+                  "y": 2,
+                  "width": 33,
+                  "height": 35
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "caHjjrfWRImavwP0rNBuV/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "relief_bg",
+      "rect": [
+        0,
+        0,
+        778,
+        506
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        778,
+        506
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "95oVBu1bJCPpKeetjj6In/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "button_green_sichuan",
+      "rect": [
+        0,
+        0,
+        114,
+        244
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        244
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

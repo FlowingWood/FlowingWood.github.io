@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "534KWNvOtLR4B/TPe+1/FL"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "head_frame",
+      "rect": [
+        0,
+        0,
+        104,
+        103
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        104,
+        104
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

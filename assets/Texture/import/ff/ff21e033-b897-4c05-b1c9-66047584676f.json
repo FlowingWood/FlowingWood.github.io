@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "60qrBt+lZOxanRpxop2oEe"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bg884x116",
+      "rect": [
+        1,
+        1,
+        122,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        124,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

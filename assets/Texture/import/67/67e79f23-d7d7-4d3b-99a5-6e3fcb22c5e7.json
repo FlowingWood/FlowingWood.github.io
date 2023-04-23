@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "58RDLCZKpMiIu4U1YrDlk+"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_duihuan_bg",
+      "rect": [
+        2,
+        1,
+        160,
+        55
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        164,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

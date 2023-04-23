@@ -1,0 +1,178 @@
+[
+  1,
+  [
+    "e2/R4YYGJAJItHmPsiFzRK",
+    "6aM5oOL35NH4FYsHlnahUh",
+    "40G7UPftVC0IKl5Hba7vch"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "yellow",
+          "rect": [
+            64,
+            248,
+            46,
+            44
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            48,
+            48
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "feedback_close",
+          "rect": [
+            194,
+            408,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            42,
+            42
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "yf_feedback_bg",
+          "rect": [
+            0,
+            0,
+            760,
+            500
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            760,
+            500
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "feedback_content",
+          "rect": [
+            112,
+            2,
+            680,
+            80
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            680,
+            80
+          ],
+          "rotated": 1,
+          "capInsets": [
+            10,
+            10,
+            10,
+            10
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

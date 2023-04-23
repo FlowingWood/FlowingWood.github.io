@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "51DDmgh2FK/bpQO5EST7Og"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ingame_textures",
+      "rect": [
+        2,
+        2,
+        506,
+        946
+      ],
+      "offset": [
+        -1,
+        37
+      ],
+      "originalSize": [
+        512,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

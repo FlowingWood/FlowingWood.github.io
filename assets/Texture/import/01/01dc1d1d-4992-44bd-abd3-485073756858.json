@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "adwmYCLNZKxbWxqW+j6/57"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "NoticePageSample",
+      "rect": [
+        2,
+        0,
+        252,
+        386
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        254,
+        386
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

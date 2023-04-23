@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "319VHMhY1I0qZWFxD3XrRp"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "arrow",
+      "rect": [
+        0,
+        0,
+        239,
+        170
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        239,
+        170
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

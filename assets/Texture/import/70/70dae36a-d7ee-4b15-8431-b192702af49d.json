@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "08TZLHdpRKG4NHWB0c6ltB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lottery_reward_code_1",
+      "rect": [
+        0,
+        0,
+        618,
+        173
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        618,
+        173
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

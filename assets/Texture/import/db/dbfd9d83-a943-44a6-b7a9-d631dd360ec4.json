@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2dDTBd+fNCpppfRr6glEAr"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lottery_reward_circle",
+      "rect": [
+        4,
+        6,
+        674,
+        671
+      ],
+      "offset": [
+        -1,
+        0.5
+      ],
+      "originalSize": [
+        684,
+        684
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

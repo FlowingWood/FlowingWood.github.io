@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6acegvUDdPzK+We3l1QYUz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "chat_back",
+      "rect": [
+        0,
+        2,
+        442,
+        364
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        442,
+        368
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b5jpKNt3JKYI5W0pIafmim"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_r_sign",
+      "rect": [
+        0,
+        1,
+        197,
+        71
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        197,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

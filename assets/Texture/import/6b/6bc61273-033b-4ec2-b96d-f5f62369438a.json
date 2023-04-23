@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2dV+0Hh3dAwqiRG4rFIhQi"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "exchange_frame",
+      "rect": [
+        0,
+        0,
+        594,
+        85
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        594,
+        86
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

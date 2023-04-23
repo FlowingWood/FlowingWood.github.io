@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4dQ63AzytC1pQGa3ctLveV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "icon_video",
+      "rect": [
+        7,
+        17,
+        108,
+        100
+      ],
+      "offset": [
+        1,
+        -7
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

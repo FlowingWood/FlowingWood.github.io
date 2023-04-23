@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2dI1Hux31Nr6OxfHzCQewD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lobby_textures",
+      "rect": [
+        2,
+        2,
+        2026,
+        1987
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2030,
+        1991
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

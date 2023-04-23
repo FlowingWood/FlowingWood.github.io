@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2afaEmcpBEsIwscM2Icniw"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gold_icon",
+      "rect": [
+        3,
+        2,
+        48,
+        51
+      ],
+      "offset": [
+        -1,
+        -0.5
+      ],
+      "originalSize": [
+        56,
+        54
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ffudeGMblC7qnlfMxbxDZo"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "get_gold",
+      "rect": [
+        35,
+        0,
+        187,
+        223
+      ],
+      "offset": [
+        16.5,
+        0.5
+      ],
+      "originalSize": [
+        224,
+        224
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c6mFKd+M1PZZ0elhCe04f+"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_tips",
+      "rect": [
+        3,
+        2,
+        22,
+        25
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        28,
+        28
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

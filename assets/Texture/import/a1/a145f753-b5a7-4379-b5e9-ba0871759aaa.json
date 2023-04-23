@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "16HALMqrBLdpVe/Xhk+OML"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "RoomButtonSample",
+      "rect": [
+        0,
+        0,
+        327,
+        220
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        328,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

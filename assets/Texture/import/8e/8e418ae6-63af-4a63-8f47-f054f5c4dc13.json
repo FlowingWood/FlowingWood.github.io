@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "88S40RtoNK0oc5rgTFi6/O"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tips_right_bottom",
+      "rect": [
+        2,
+        0,
+        287,
+        61
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        290,
+        61
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

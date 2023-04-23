@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f2CQtNIvlB8LmeU/Czu8Sz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "prop_bg_bottom",
+      "rect": [
+        0,
+        0,
+        99,
+        25
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        100,
+        25
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

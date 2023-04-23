@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e5LI1zR19ProHXHF2BwVa2"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "add_favorite_bg",
+      "rect": [
+        0,
+        6,
+        951,
+        584
+      ],
+      "offset": [
+        -1,
+        -3
+      ],
+      "originalSize": [
+        953,
+        590
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

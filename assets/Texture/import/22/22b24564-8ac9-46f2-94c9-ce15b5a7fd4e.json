@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ffj4Z4pClBLL8IG+5FNHUV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mask",
+      "rect": [
+        1,
+        1,
+        183,
+        183
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "originalSize": [
+        185,
+        189
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

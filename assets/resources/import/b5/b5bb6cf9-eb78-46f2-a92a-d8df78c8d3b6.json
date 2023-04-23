@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "62p3a2xvtCmZzDHlo3Nyic"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bottom_extra_bg",
+      "rect": [
+        490,
+        880,
+        70,
+        100
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "originalSize": [
+        72,
+        108
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

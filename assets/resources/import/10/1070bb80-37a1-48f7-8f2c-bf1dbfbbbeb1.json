@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "27I6EVsBxIs5npgFqHzHRA"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "chi_peng_gang_hu_ting",
+      "rect": [
+        3,
+        2,
+        473,
+        582
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        478,
+        586
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

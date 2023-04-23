@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "96SoZqPDNLWZgR3ak3GCVZ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mail_reward_have_get",
+      "rect": [
+        0,
+        1,
+        43,
+        44
+      ],
+      "offset": [
+        -2.5,
+        1
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

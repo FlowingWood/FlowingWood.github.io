@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3aLa6cAUhNqrTBPAo0B2rK"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pos_img",
+      "rect": [
+        0,
+        0,
+        24,
+        35
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        24,
+        36
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

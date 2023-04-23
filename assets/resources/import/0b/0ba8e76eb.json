@@ -1,0 +1,2650 @@
+[
+  1,
+  [
+    "da+pNkvFpLMI39zzYifIhe",
+    "98+2hYmUFBCrglxp5CDvNd",
+    "75+LnWmMNHS5g0jd5SRpf/",
+    "5fW5fB3/xFPqm8ZK+430o8",
+    "d97Lc2OIVFR6LKxTrWDg99",
+    "d9jHWG/MpK3pek2v84aUxM",
+    "95Z9t1mKdLnIoN6otVCFOO",
+    "2cSfLHT7ZGEKiO7YYJRolE",
+    "ee8q9a2ANIFbmiODwk2OzD",
+    "a7HS03HK1FtYx/IlvvfGcb",
+    "54wbwOvJ5LjKpYaKaxmwyO",
+    "19WvrN9VlEspcpZOAvrUOk",
+    "0f5tBAGlRLOrabKJHBKoZP",
+    "2cPgQqC9ZAp7zM95pVkMVG",
+    "c325+2+apNEL7SKyRgyU+6",
+    "7f6s5Fng5GMITxApnHKDo/",
+    "8fqQkdbAVNrZqNZnl6G+uB",
+    "c8NOSxKgtKRrNdqWv7UAnI",
+    "2cl2TN8LhA7LD6ohVRrl55",
+    "b8vd1bXfVJBLHIg7AsmYvq",
+    "5dTzl23iNEzJ2TCylYZ6eh",
+    "64utz7ctBA/Jw84M+RL0y7",
+    "69UVI491xB5L8jWrEJ+V1B",
+    "47EfDRaFpMkoFao16qzn/T",
+    "47l2gV645CQrBzU32Mm2DI",
+    "5aIQsrCi5LeKbZTKTJsLPf",
+    "94odTfGf1GDLPeofZf3iaK",
+    "90u7tRNAlM06WIUFgsRcmc",
+    "38icrtEbpJrIikcnQnrNg9",
+    "e7PdPVxRVMT488sTDmVQYL",
+    "68/RQ6fVlEN6u5tLfpiXwE",
+    "93a9PWZdBNfLzicLlRU9V8",
+    "cedPuLi6NHJbGswalReH3y",
+    "daQgYKKQ9HwKiMmyayvYQg",
+    "b0pYhD+iFLT6LLycbzpS7Y",
+    "77oSAUhqNAq6fHbDANeA3o",
+    "c531EwIQFOn6tvMQWLjRbl",
+    "68B9eE8zlJho0sWqnKTAIB",
+    "1dxcbZ0ZdIzI//vyBSEr59",
+    "05oLpZm6JLUoUsDpXIcdpd",
+    "bduX5ViH9Glaoe8q99L50a",
+    "b58Gxaqg9OLa2orX26naxO",
+    "36WDutZZhEeoDz2IFoMkDm",
+    "fegRTThF9PNKInOBFUsJJ9",
+    "bfzP1TSm9L5Yl8INut5w9f",
+    "87Z5VVyPdPpakFRiZRv0jV",
+    "1dS3NPtjBDSLR2fiygMjai",
+    "444zcWN2RFuaRPScGf7rHQ",
+    "06YEJbWqlHnY9KMLKU5wKZ",
+    "0flBEZrhFKjogEUj7gJuw0",
+    "43X3JG6yNL+oZ4BlKx76mO",
+    "cdaT2RSkRNOq685qV7BWWz",
+    "672c1pBWFHmbGXhsyeSG9g",
+    "b16D/V8etNiZRPTRW4koug",
+    "a8awARBdVAeau5mMfVoNtg"
+  ],
+  [
+    "_textureSetter",
+    "Common-head_female_big",
+    "Common-head_male_big",
+    "Common-head_unknow_big",
+    "Emotion-1",
+    "Emotion-23",
+    "Emotion-4",
+    "Emotion-5",
+    "Emotion-6",
+    "Gift-1-end7",
+    "Gift-1-end8",
+    "Gift-1-end9",
+    "Gift-3-end4",
+    "Gift-3-end5",
+    "Gift-3-end6",
+    "Gift-3-end7",
+    "Gift-3-end8",
+    "Gift-3-end9",
+    "Gift-3-start7",
+    "Gift-3-start8",
+    "Gift-3-start9",
+    "Prop-prop_1031",
+    "Prop-prop_1032",
+    "Prop-prop_1033",
+    "Prop-prop_2",
+    "Prop-prop_2005",
+    "Prop-prop_2006",
+    "Prop-prop_2007",
+    "Prop-prop_2008",
+    "Prop-prop_2009",
+    "Prop-prop_2011",
+    "Prop-prop_2012",
+    "Prop-prop_2013",
+    "Prop-prop_2014",
+    "Prop-prop_2032",
+    "Prop-prop_2055",
+    "Prop-prop_2056",
+    "Shop-gold_img_1",
+    "Shop-gold_img_2",
+    "Shop-gold_img_3",
+    "Shop-gold_img_4",
+    "Shop-gold_img_5",
+    "Shop-gold_img_6",
+    "Shop-ingot_img_1",
+    "Shop-ingot_img_2",
+    "Shop-ingot_img_3",
+    "Shop-ingot_img_4",
+    "Shop-ingot_img_5",
+    "Shop-ingot_img_6",
+    "Status-status_1003",
+    "Status-status_1017",
+    "Status-status_1018",
+    "Task-img_invite",
+    "Task-img_share",
+    "Task-img_video"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "Shop-gold_img_3",
+          "rect": [
+            664,
+            622,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_6",
+          "rect": [
+            804,
+            1110,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Status-status_1003",
+          "rect": [
+            896,
+            360,
+            100,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end4",
+          "rect": [
+            1,
+            1,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-1-end9",
+          "rect": [
+            1,
+            856,
+            238,
+            185
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            238,
+            185
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_4",
+          "rect": [
+            828,
+            988,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-gold_img_2",
+          "rect": [
+            786,
+            500,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end5",
+          "rect": [
+            1,
+            206,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Emotion-5",
+          "rect": [
+            290,
+            602,
+            200,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            200,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-start7",
+          "rect": [
+            290,
+            1178,
+            133,
+            107
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            133,
+            107
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-gold_img_6",
+          "rect": [
+            758,
+            744,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2008",
+          "rect": [
+            462,
+            912,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Status-status_1017",
+          "rect": [
+            908,
+            462,
+            100,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_5",
+          "rect": [
+            880,
+            744,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_1033",
+          "rect": [
+            392,
+            668,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2",
+          "rect": [
+            392,
+            790,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-1-end8",
+          "rect": [
+            697,
+            1,
+            238,
+            185
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            238,
+            185
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2005",
+          "rect": [
+            542,
+            519,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-start9",
+          "rect": [
+            420,
+            411,
+            133,
+            107
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            133,
+            107
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Common-head_unknow_big",
+          "rect": [
+            824,
+            188,
+            170,
+            170
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            170,
+            170
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_1031",
+          "rect": [
+            529,
+            397,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Task-img_invite",
+          "rect": [
+            1,
+            1096,
+            185,
+            189
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            185,
+            189
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-gold_img_1",
+          "rect": [
+            774,
+            378,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2011",
+          "rect": [
+            584,
+            912,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_1032",
+          "rect": [
+            420,
+            546,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Common-head_male_big",
+          "rect": [
+            652,
+            206,
+            170,
+            170
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            170,
+            170
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2055",
+          "rect": [
+            652,
+            378,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end7",
+          "rect": [
+            1,
+            411,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_3",
+          "rect": [
+            828,
+            866,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end8",
+          "rect": [
+            233,
+            206,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2007",
+          "rect": [
+            514,
+            790,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2012",
+          "rect": [
+            514,
+            790,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2006",
+          "rect": [
+            514,
+            668,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Emotion-4",
+          "rect": [
+            188,
+            1020,
+            200,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            200,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Common-head_female_big",
+          "rect": [
+            290,
+            1006,
+            170,
+            170
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            170,
+            170
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-1-end7",
+          "rect": [
+            1,
+            616,
+            238,
+            185
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            238,
+            185
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Task-img_video",
+          "rect": [
+            465,
+            206,
+            185,
+            189
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            185,
+            189
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2032",
+          "rect": [
+            682,
+            1156,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Task-img_share",
+          "rect": [
+            233,
+            411,
+            185,
+            189
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            185,
+            189
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-gold_img_5",
+          "rect": [
+            636,
+            744,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-start8",
+          "rect": [
+            425,
+            1178,
+            133,
+            107
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            133,
+            107
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-gold_img_4",
+          "rect": [
+            786,
+            622,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_2",
+          "rect": [
+            706,
+            988,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end6",
+          "rect": [
+            233,
+            1,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2056",
+          "rect": [
+            664,
+            500,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Gift-3-end9",
+          "rect": [
+            465,
+            1,
+            230,
+            203
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            230,
+            203
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Status-status_1018",
+          "rect": [
+            908,
+            564,
+            100,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2013",
+          "rect": [
+            584,
+            1034,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Emotion-23",
+          "rect": [
+            188,
+            818,
+            200,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            200,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Emotion-1",
+          "rect": [
+            188,
+            616,
+            200,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            200,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2014",
+          "rect": [
+            560,
+            1156,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "lobby_textures_dynamic-2.plist",
+          [
+            {},
+            "Common-head_female_big",
+            6,
+            0,
+            "Common-head_male_big",
+            6,
+            1,
+            "Common-head_unknow_big",
+            6,
+            2,
+            "Emotion-1",
+            6,
+            3,
+            "Emotion-23",
+            6,
+            4,
+            "Emotion-4",
+            6,
+            5,
+            "Emotion-5",
+            6,
+            6,
+            "Emotion-6",
+            6,
+            7,
+            "Gift-1-end7",
+            6,
+            8,
+            "Gift-1-end8",
+            6,
+            9,
+            "Gift-1-end9",
+            6,
+            10,
+            "Gift-3-end4",
+            6,
+            11,
+            "Gift-3-end5",
+            6,
+            12,
+            "Gift-3-end6",
+            6,
+            13,
+            "Gift-3-end7",
+            6,
+            14,
+            "Gift-3-end8",
+            6,
+            15,
+            "Gift-3-end9",
+            6,
+            16,
+            "Gift-3-start7",
+            6,
+            17,
+            "Gift-3-start8",
+            6,
+            18,
+            "Gift-3-start9",
+            6,
+            19,
+            "Prop-prop_1031",
+            6,
+            20,
+            "Prop-prop_1032",
+            6,
+            21,
+            "Prop-prop_1033",
+            6,
+            22,
+            "Prop-prop_2",
+            6,
+            23,
+            "Prop-prop_2005",
+            6,
+            24,
+            "Prop-prop_2006",
+            6,
+            25,
+            "Prop-prop_2007",
+            6,
+            26,
+            "Prop-prop_2008",
+            6,
+            27,
+            "Prop-prop_2009",
+            6,
+            28,
+            "Prop-prop_2011",
+            6,
+            29,
+            "Prop-prop_2012",
+            6,
+            30,
+            "Prop-prop_2013",
+            6,
+            31,
+            "Prop-prop_2014",
+            6,
+            32,
+            "Prop-prop_2032",
+            6,
+            33,
+            "Prop-prop_2055",
+            6,
+            34,
+            "Prop-prop_2056",
+            6,
+            35,
+            "Shop-gold_img_1",
+            6,
+            36,
+            "Shop-gold_img_2",
+            6,
+            37,
+            "Shop-gold_img_3",
+            6,
+            38,
+            "Shop-gold_img_4",
+            6,
+            39,
+            "Shop-gold_img_5",
+            6,
+            40,
+            "Shop-gold_img_6",
+            6,
+            41,
+            "Shop-ingot_img_1",
+            6,
+            42,
+            "Shop-ingot_img_2",
+            6,
+            43,
+            "Shop-ingot_img_3",
+            6,
+            44,
+            "Shop-ingot_img_4",
+            6,
+            45,
+            "Shop-ingot_img_5",
+            6,
+            46,
+            "Shop-ingot_img_6",
+            6,
+            47,
+            "Status-status_1003",
+            6,
+            48,
+            "Status-status_1017",
+            6,
+            49,
+            "Status-status_1018",
+            6,
+            50,
+            "Task-img_invite",
+            6,
+            51,
+            "Task-img_share",
+            6,
+            52,
+            "Task-img_video",
+            6,
+            53
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Prop-prop_2009",
+          "rect": [
+            462,
+            1034,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Emotion-6",
+          "rect": [
+            290,
+            804,
+            200,
+            100
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            200,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shop-ingot_img_1",
+          "rect": [
+            706,
+            866,
+            120,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            120,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f7Xie/1zBCJ7GRiqn5JPt9"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "notice_detail_bg",
+      "rect": [
+        0,
+        0,
+        696,
+        454
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        696,
+        454
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,532 @@
+[
+  1,
+  [
+    "6fl4df4kFAcrCS1cUkfjJ3",
+    "7dfWrkF2FKmLMv9ENpzIFF",
+    "bb3jv9281DKYsHhx1Kizts",
+    "d0vYRHlWpMtKKVj/5TngWw",
+    "37pxl7YmRDWKY3/qM21G+E",
+    "cd2Ozr2iZKLIEsRvA0rmua",
+    "c8b/HhekhNOpdCTZ9bCy25",
+    "5bz+bqVUFIWLFioqnekzFe",
+    "f1IHlLqoNDqbNgW/Yk+xVU",
+    "46MFdgIJJCbZQ30wugq5DR",
+    "0212RltnFAsqB/mY0VpY+x",
+    "e9wLChJGREq6hfm5D2Y++X",
+    "00zPkiHzxCFpI4KnyGiSa+",
+    "939UAt/C9Ccbj67bqGj+mv",
+    "df54iXnC1Pzr9w+ep+XR/C",
+    "2dnqXmP1hPcIuwrqLQ/sN/"
+  ],
+  [
+    "_textureSetter",
+    "value"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.AnimationClip",
+      [
+        "_name",
+        "_duration",
+        "sample",
+        "speed",
+        "wrapMode",
+        "curveData"
+      ],
+      -2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "hupai_diansi03",
+          "rect": [
+            5,
+            2,
+            48,
+            48
+          ],
+          "offset": [
+            -3,
+            6
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "lightning_2",
+          0.5,
+          30,
+          0.8,
+          0,
+          [
+            {
+              "props": {
+                "opacity": [
+                  {
+                    "frame": 0,
+                    "value": 0
+                  },
+                  {
+                    "frame": 0.03333333333333333,
+                    "value": 255
+                  },
+                  {
+                    "frame": 0.26666666666666666,
+                    "value": 255,
+                    "curve": "expoOut"
+                  },
+                  {
+                    "frame": 0.5,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "comps",
+            11,
+            [
+              {},
+              "cc.Sprite",
+              11,
+              [
+                {},
+                "spriteFrame",
+                12,
+                [
+                  [
+                    [
+                      {
+                        "frame": 0.03333333333333333
+                      },
+                      "value",
+                      6,
+                      0
+                    ],
+                    [
+                      {
+                        "frame": 0.06666666666666667
+                      },
+                      "value",
+                      6,
+                      1
+                    ],
+                    [
+                      {
+                        "frame": 0.1
+                      },
+                      "value",
+                      6,
+                      2
+                    ],
+                    [
+                      {
+                        "frame": 0.13333333333333333
+                      },
+                      "value",
+                      6,
+                      3
+                    ],
+                    [
+                      {
+                        "frame": 0.16666666666666666
+                      },
+                      "value",
+                      6,
+                      4
+                    ],
+                    [
+                      {
+                        "frame": 0.2
+                      },
+                      "value",
+                      6,
+                      5
+                    ],
+                    [
+                      {
+                        "frame": 0.23333333333333334
+                      },
+                      "value",
+                      6,
+                      6
+                    ],
+                    [
+                      {
+                        "frame": 0.26666666666666666
+                      },
+                      "value",
+                      6,
+                      7
+                    ]
+                  ],
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi06",
+          "rect": [
+            1,
+            5,
+            59,
+            43
+          ],
+          "offset": [
+            -1.5,
+            5.5
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        9
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi08",
+          "rect": [
+            1,
+            25,
+            44,
+            22
+          ],
+          "offset": [
+            -9,
+            -4
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        10
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi01",
+          "rect": [
+            7,
+            7,
+            56,
+            47
+          ],
+          "offset": [
+            3,
+            1.5
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        11
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi05",
+          "rect": [
+            1,
+            3,
+            58,
+            50
+          ],
+          "offset": [
+            -2,
+            4
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        12
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi04",
+          "rect": [
+            7,
+            1,
+            44,
+            48
+          ],
+          "offset": [
+            -3,
+            7
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        13
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi02",
+          "rect": [
+            11,
+            11,
+            51,
+            41
+          ],
+          "offset": [
+            4.5,
+            0.5
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        14
+      ]
+    ],
+    [
+      [
+        {
+          "name": "hupai_diansi07",
+          "rect": [
+            1,
+            18,
+            59,
+            29
+          ],
+          "offset": [
+            -1.5,
+            -0.5
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        15
+      ]
+    ]
+  ]
+]

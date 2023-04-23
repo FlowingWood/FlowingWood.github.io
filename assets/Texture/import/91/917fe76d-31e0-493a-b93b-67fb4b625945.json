@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2db06CHNNOMoDXOt8N3SfD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "userinfo_back",
+      "rect": [
+        0,
+        0,
+        696,
+        524
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        696,
+        524
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

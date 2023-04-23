@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6450arACZNNpFCfopbfZMb"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_bindwechat",
+      "rect": [
+        26,
+        57,
+        119,
+        90
+      ],
+      "offset": [
+        -7,
+        -7.5
+      ],
+      "originalSize": [
+        185,
+        189
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

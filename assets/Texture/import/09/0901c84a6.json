@@ -1,0 +1,245 @@
+[
+  1,
+  [
+    "daKVDORzhM6rY0kN/qIKaE",
+    "01DizEpZlFGJoOeOrQj3ey"
+  ],
+  [
+    "spriteFrame",
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        [
+          0,
+          "fkly_zk1",
+          32,
+          {
+            "commonHeight": 38,
+            "fontSize": 32,
+            "atlasName": "fkly_zk1.png",
+            "fontDefDictionary": {
+              "32": {
+                "xOffset": 0,
+                "yOffset": 34,
+                "xAdvance": 11,
+                "rect": {
+                  "x": 86,
+                  "y": 70,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "46": {
+                "xOffset": 2,
+                "yOffset": 19,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 72,
+                  "y": 70,
+                  "width": 14,
+                  "height": 15
+                }
+              },
+              "48": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 38,
+                  "y": 0,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "49": {
+                "xOffset": 2,
+                "yOffset": 3,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 49,
+                  "y": 70,
+                  "width": 23,
+                  "height": 31
+                }
+              },
+              "50": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 62,
+                  "y": 0,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "51": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 86,
+                  "y": 0,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "52": {
+                "xOffset": 1,
+                "yOffset": 3,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 0,
+                  "y": 70,
+                  "width": 25,
+                  "height": 31
+                }
+              },
+              "53": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 0,
+                  "y": 38,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "54": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 24,
+                  "y": 38,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "55": {
+                "xOffset": 2,
+                "yOffset": 3,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 25,
+                  "y": 70,
+                  "width": 24,
+                  "height": 31
+                }
+              },
+              "56": {
+                "xOffset": 2,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 48,
+                  "y": 38,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "57": {
+                "xOffset": 1,
+                "yOffset": 2,
+                "xAdvance": 23,
+                "rect": {
+                  "x": 72,
+                  "y": 38,
+                  "width": 24,
+                  "height": 32
+                }
+              },
+              "25240": {
+                "xOffset": 1,
+                "yOffset": -1,
+                "xAdvance": 36,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 38,
+                  "height": 38
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fkly_zk1",
+          "rect": [
+            0,
+            1,
+            109,
+            99
+          ],
+          "offset": [
+            -1.5,
+            1.5
+          ],
+          "originalSize": [
+            112,
+            104
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

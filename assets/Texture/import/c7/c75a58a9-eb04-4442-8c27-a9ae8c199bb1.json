@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "58mFpomYROuq0iv2wTbcEY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "redpackage_small",
+      "rect": [
+        0,
+        0,
+        30,
+        43
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        30,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

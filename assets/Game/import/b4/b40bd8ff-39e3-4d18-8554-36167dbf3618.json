@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "23Y8BYiA9NoaSqN7fIT5+j"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "level_up_2",
+      "rect": [
+        0,
+        0,
+        559,
+        473
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        559,
+        473
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

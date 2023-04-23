@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "86Z1VezhRM9qlFOp/r8yKu"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "reward_circle",
+      "rect": [
+        4,
+        6,
+        674,
+        671
+      ],
+      "offset": [
+        -1,
+        0.5
+      ],
+      "originalSize": [
+        684,
+        684
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

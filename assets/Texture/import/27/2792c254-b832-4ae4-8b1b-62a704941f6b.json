@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6f7g9i8oJK4pu8Haq6jbXf"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tab_prop_mall_1",
+      "rect": [
+        0,
+        1,
+        226,
+        109
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        226,
+        110
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,223 @@
+[
+  1,
+  [
+    "a3FEnSfl5NF6/C1I3XqwD9",
+    "f0Ovn8felJ/6hExWUMV9z1"
+  ],
+  [
+    "spriteFrame",
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        [
+          0,
+          "wxxyx_baoxianx",
+          32,
+          {
+            "commonHeight": 32,
+            "fontSize": 32,
+            "atlasName": "wxxyx_baoxianx_0.png",
+            "fontDefDictionary": {
+              "44": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 12,
+                "rect": {
+                  "x": 279,
+                  "y": 0,
+                  "width": 12,
+                  "height": 44
+                }
+              },
+              "48": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 29,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 29,
+                  "height": 44
+                }
+              },
+              "49": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 19,
+                "rect": {
+                  "x": 259,
+                  "y": 0,
+                  "width": 19,
+                  "height": 44
+                }
+              },
+              "50": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 28,
+                "rect": {
+                  "x": 60,
+                  "y": 0,
+                  "width": 28,
+                  "height": 44
+                }
+              },
+              "51": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 27,
+                "rect": {
+                  "x": 147,
+                  "y": 0,
+                  "width": 27,
+                  "height": 44
+                }
+              },
+              "52": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 29,
+                "rect": {
+                  "x": 30,
+                  "y": 0,
+                  "width": 29,
+                  "height": 44
+                }
+              },
+              "53": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 28,
+                "rect": {
+                  "x": 89,
+                  "y": 0,
+                  "width": 28,
+                  "height": 44
+                }
+              },
+              "54": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 27,
+                "rect": {
+                  "x": 175,
+                  "y": 0,
+                  "width": 27,
+                  "height": 44
+                }
+              },
+              "55": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 28,
+                "rect": {
+                  "x": 118,
+                  "y": 0,
+                  "width": 28,
+                  "height": 44
+                }
+              },
+              "56": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 27,
+                "rect": {
+                  "x": 203,
+                  "y": 0,
+                  "width": 27,
+                  "height": 44
+                }
+              },
+              "57": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 27,
+                "rect": {
+                  "x": 231,
+                  "y": 0,
+                  "width": 27,
+                  "height": 44
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "wxxyx_baoxianx_0",
+          "rect": [
+            0,
+            1,
+            291,
+            43
+          ],
+          "offset": [
+            -154.5,
+            2.5
+          ],
+          "originalSize": [
+            600,
+            50
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

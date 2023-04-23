@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "cbbSCz3fRGFJGiabA+SYiY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "150_btn_redpack_close",
+      "rect": [
+        0,
+        0,
+        26,
+        27
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        26,
+        28
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

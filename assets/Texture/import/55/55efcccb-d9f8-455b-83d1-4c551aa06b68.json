@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "af007inrFD1aIlYvJ2B8tF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_tip_week",
+      "rect": [
+        1,
+        1,
+        371,
+        26
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        374,
+        28
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

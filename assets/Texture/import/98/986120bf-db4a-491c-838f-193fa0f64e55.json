@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "22jXtMPJtDlI5AVMGdlkgJ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "next_step",
+      "rect": [
+        0,
+        0,
+        172,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        172,
+        66
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "56kocWq8NP7oWfeeXdaKVU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pop",
+      "rect": [
+        1,
+        1,
+        138,
+        63
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        140,
+        66
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

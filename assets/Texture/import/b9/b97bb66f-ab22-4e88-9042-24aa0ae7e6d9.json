@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c0gldSJzpH5pbqkSW2/pXV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "rule_unchoose",
+      "rect": [
+        0,
+        0,
+        190,
+        76
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        190,
+        78
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "04Vv7HxVBFiaJsQIcQOAuD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "editot",
+      "rect": [
+        0,
+        0,
+        232,
+        270
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        232,
+        270
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

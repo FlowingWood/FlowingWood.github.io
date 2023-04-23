@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b2XW0MhSdNRa1H0UzP8/h9"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "fuzhoumajiang_touzi",
+      "rect": [
+        2,
+        2,
+        503,
+        352
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        508,
+        356
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

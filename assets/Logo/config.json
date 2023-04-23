@@ -1,0 +1,34 @@
+{
+    "paths": {
+        "2f2KLNfmBIaJWtLCopAAfq": [
+            "150",
+            "cc.Texture2D"
+        ],
+        "67gv8qNWtMe5dUMF/7OxrL": [
+            "150",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "2f2KLNfmBIaJWtLCopAAfq",
+        "67gv8qNWtMe5dUMF/7OxrL"
+    ],
+    "scenes": {},
+    "redirect": [
+        "2f2KLNfmBIaJWtLCopAAfq",
+        0,
+        "67gv8qNWtMe5dUMF/7OxrL",
+        0
+    ],
+    "deps": [
+        "main"
+    ],
+    "packs": {},
+    "name": "Logo",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

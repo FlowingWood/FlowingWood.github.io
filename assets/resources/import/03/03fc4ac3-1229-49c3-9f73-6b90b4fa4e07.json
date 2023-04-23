@@ -1,0 +1,72 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "layout_3d_config",
+      {
+        "log_enable": {
+          "comment": "是否启用log",
+          "value": false
+        },
+        "print_enable": {
+          "comment": "是否启用实时输出",
+          "value": true
+        },
+        "show_card_value_on_dark_gang": {
+          "comment": "暗杠的第四张牌是否可见",
+          "value": true
+        },
+        "show_heap_arrow": {
+          "comment": "是否显示吃碰杠堆的指向箭头",
+          "value": true
+        },
+        "tile_hua_card": {
+          "comment": "是否堆叠花牌",
+          "value": true
+        },
+        "play_insert_card": {
+          "comment": "是否播放插入自己手牌的动画",
+          "value": true
+        },
+        "custom_self_handcard_scale": {
+          "comment": "单款可调自己手牌缩放",
+          "value": 1
+        },
+        "show_self_dark_gang_card_value": {
+          "comment": "自己暗杠的第四张牌是否永远可见",
+          "value": true
+        },
+        "auto_hide_handle_select": {
+          "comment": "吃碰杠按钮点击完后是否自动隐藏",
+          "value": true
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

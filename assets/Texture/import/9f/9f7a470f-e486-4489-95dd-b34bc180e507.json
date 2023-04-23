@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0fiuRFq5xFrZFadlizAFIU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "GameButtonSample",
+      "rect": [
+        9,
+        0,
+        332,
+        251
+      ],
+      "offset": [
+        0,
+        7.5
+      ],
+      "originalSize": [
+        350,
+        266
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

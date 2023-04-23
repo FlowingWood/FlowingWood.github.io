@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6cQZO0t+lEjb2rKaZrFRVA"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mail_title_bg",
+      "rect": [
+        0,
+        1,
+        279,
+        40
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        280,
+        42
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

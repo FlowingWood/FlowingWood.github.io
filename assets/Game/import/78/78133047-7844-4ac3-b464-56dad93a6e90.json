@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "50umMs1h5PDZB8kEDtCRoU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "dh_cpght",
+      "rect": [
+        1,
+        1,
+        506,
+        552
+      ],
+      "offset": [
+        -2,
+        235
+      ],
+      "originalSize": [
+        512,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "99Y7RxOi9A56Dtc/6H1G5c"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "radio_0",
+      "rect": [
+        1,
+        0,
+        35,
+        35
+      ],
+      "offset": [
+        -0.5,
+        3.5
+      ],
+      "originalSize": [
+        38,
+        42
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

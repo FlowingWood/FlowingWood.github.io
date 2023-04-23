@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "90zvDTcCJOHpFav5fAq/V5"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_back",
+      "rect": [
+        0,
+        0,
+        845,
+        508
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        846,
+        508
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

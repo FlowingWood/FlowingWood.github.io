@@ -1,0 +1,457 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "layout_heap_cards_right",
+      {
+        "x": 1130,
+        "y": 100,
+        "zorder": 500,
+        "items": [
+          {
+            "id": 0,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 14,
+                "ground": {
+                  "file": "right_extra_bg_1.png",
+                  "back": "right_extra_an_1.png",
+                  "x": 30,
+                  "y": 110,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -35,
+                  "y": -12,
+                  "scale": 1.1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -52,
+                  "y": -9,
+                  "scale": 0.72
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 13,
+                "ground": {
+                  "file": "right_extra_bg_2.png",
+                  "back": "right_extra_an_2.png",
+                  "x": 29,
+                  "y": 136,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -43,
+                  "y": -12,
+                  "scale": 1.1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -60,
+                  "y": -9,
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 12,
+                "ground": {
+                  "file": "right_extra_bg_3.png",
+                  "back": "right_extra_an_3.png",
+                  "x": 28,
+                  "y": 162,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -52,
+                  "y": -13,
+                  "scale": 1.1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -68,
+                  "y": -9,
+                  "scale": 0.68
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 15,
+                "ground": {
+                  "file": "right_extra_bg_2.png",
+                  "back": "right_extra_an_2.png",
+                  "x": 32,
+                  "y": 151,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -43,
+                  "y": -12,
+                  "scale": 1.1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -60,
+                  "y": -9,
+                  "scale": 0.7
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_right_{NUM}.png",
+              "x": 53,
+              "y": 124,
+              "scale": 0.73,
+              "zorder": 16
+            }
+          },
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 10,
+                "ground": {
+                  "file": "right_extra_bg_4.png",
+                  "back": "right_extra_an_4.png",
+                  "x": 25,
+                  "y": 194,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -59,
+                  "y": -13,
+                  "scale": 1.06
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -76,
+                  "y": -9,
+                  "scale": 0.66
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 9,
+                "ground": {
+                  "file": "right_extra_bg_5.png",
+                  "back": "right_extra_an_5.png",
+                  "x": 24,
+                  "y": 220,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -67,
+                  "y": -13,
+                  "scale": 1.06
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -85,
+                  "y": -9,
+                  "scale": 0.64
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 8,
+                "ground": {
+                  "file": "right_extra_bg_6.png",
+                  "back": "right_extra_an_6.png",
+                  "x": 23,
+                  "y": 246,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -75,
+                  "y": -13,
+                  "scale": 1.06
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -93,
+                  "y": -9,
+                  "scale": 0.62
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 11,
+                "ground": {
+                  "file": "right_extra_bg_5.png",
+                  "back": "right_extra_an_5.png",
+                  "x": 26,
+                  "y": 235,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -67,
+                  "y": -13,
+                  "scale": 1.06
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -84,
+                  "y": -9,
+                  "scale": 0.64
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_right_{NUM}.png",
+              "x": 24,
+              "y": 208,
+              "scale": 0.72,
+              "zorder": 12
+            }
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 6,
+                "ground": {
+                  "file": "right_extra_bg_9.png",
+                  "back": "right_extra_an_9.png",
+                  "x": 38,
+                  "y": 278,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -103,
+                  "y": -13,
+                  "scale": 1.02
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -119,
+                  "y": -9,
+                  "scale": 0.6
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 5,
+                "ground": {
+                  "file": "right_extra_bg_8.png",
+                  "back": "right_extra_an_8.png",
+                  "x": 20,
+                  "y": 304,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -94,
+                  "y": -13,
+                  "scale": 1.02
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -112,
+                  "y": -8,
+                  "scale": 0.58
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 4,
+                "ground": {
+                  "file": "right_extra_bg_7.png",
+                  "back": "right_extra_an_7.png",
+                  "x": 2,
+                  "y": 328,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -85,
+                  "y": -12,
+                  "scale": 1.02
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -103,
+                  "y": -7,
+                  "scale": 0.56
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 7,
+                "ground": {
+                  "file": "right_extra_bg_8.png",
+                  "back": "right_extra_an_8.png",
+                  "x": 22,
+                  "y": 320,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -94,
+                  "y": -12,
+                  "scale": 1.02
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -112,
+                  "y": -8,
+                  "scale": 0.58
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_right_{NUM}.png",
+              "x": -5,
+              "y": 292,
+              "scale": 0.71,
+              "zorder": 8
+            }
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 2,
+                "ground": {
+                  "file": "right_extra_bg_10.png",
+                  "back": "right_extra_an_10.png",
+                  "x": 17,
+                  "y": 363,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -112,
+                  "y": -13,
+                  "scale": 1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -129,
+                  "y": -8,
+                  "scale": 0.54
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 1,
+                "ground": {
+                  "file": "right_extra_bg_11.png",
+                  "back": "right_extra_an_11.png",
+                  "x": 16,
+                  "y": 389,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -122,
+                  "y": -13,
+                  "scale": 1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -138,
+                  "y": -8,
+                  "scale": 0.52
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 0,
+                "ground": {
+                  "file": "right_extra_bg_12.png",
+                  "back": "right_extra_an_12.png",
+                  "x": 14,
+                  "y": 415,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -129,
+                  "y": -13,
+                  "scale": 1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -146,
+                  "y": -7,
+                  "scale": 0.5
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 3,
+                "ground": {
+                  "file": "right_extra_bg_11.png",
+                  "back": "right_extra_an_11.png",
+                  "x": 18,
+                  "y": 405,
+                  "scale": 1
+                },
+                "card": {
+                  "file": "right_card_{NUM}.png",
+                  "x": -122,
+                  "y": -13,
+                  "scale": 1
+                },
+                "corner": {
+                  "file": "right_corner_{NUM}_1.png",
+                  "x": -138,
+                  "y": -8,
+                  "scale": 0.52
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_right_{NUM}.png",
+              "x": -34,
+              "y": 377,
+              "scale": 0.7,
+              "zorder": 4
+            }
+          }
+        ]
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

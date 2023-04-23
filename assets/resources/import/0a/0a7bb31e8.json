@@ -1,0 +1,137 @@
+[
+  1,
+  [
+    "31agtesxFCl72FKko/U0sY",
+    "30iR0dBKBKCYwWNwcQgrJa"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "lobby_feedback_bg",
+          "rect": [
+            0,
+            0,
+            776,
+            466
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            776,
+            466
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-close",
+          "rect": [
+            629,
+            1709,
+            42,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            42,
+            40
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "2-confirm",
+          "rect": [
+            483,
+            655,
+            172,
+            66
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            172,
+            66
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ddKfACkq1G/a0FWYJ4F6vm"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "new_task_image02",
+      "rect": [
+        37,
+        28,
+        95,
+        23
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        169,
+        78
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

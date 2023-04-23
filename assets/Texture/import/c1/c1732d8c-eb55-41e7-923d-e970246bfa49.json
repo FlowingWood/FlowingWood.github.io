@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "17weEjYSVAm7UP7iZUBKEh"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "label_video",
+      "rect": [
+        14,
+        0,
+        81,
+        29
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        108,
+        29
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

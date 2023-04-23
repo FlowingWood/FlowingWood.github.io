@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e0gqcYD3tBoZ7t80IRweb7"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "head_female_big",
+      "rect": [
+        0,
+        0,
+        170,
+        170
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        170,
+        170
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

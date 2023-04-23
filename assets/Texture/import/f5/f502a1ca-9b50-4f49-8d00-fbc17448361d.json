@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "17b89AzAlD7ZBWS1PhC53X"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_quick",
+      "rect": [
+        0,
+        1,
+        233,
+        83
+      ],
+      "offset": [
+        -0.5,
+        -0.5
+      ],
+      "originalSize": [
+        234,
+        84
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a1mO+kFHFCqYFgZMp1U/LB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "create_round",
+      "rect": [
+        0,
+        1,
+        80,
+        29
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        80,
+        30
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

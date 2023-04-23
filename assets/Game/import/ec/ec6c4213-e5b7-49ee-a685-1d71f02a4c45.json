@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "45+CHse6xObL3/eN8bqHnT"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jiabei_win_bg",
+      "rect": [
+        0,
+        0,
+        1081,
+        717
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1081,
+        717
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "31MLXjNAVED4MfOc0kpedi"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "win_lottery_code_bg",
+      "rect": [
+        0,
+        0,
+        270,
+        385
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        270,
+        385
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

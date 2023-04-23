@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "37SnhkIj9JtKCFAtOzE3MB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gold_img_5",
+      "rect": [
+        1,
+        15,
+        113,
+        94
+      ],
+      "offset": [
+        -2.5,
+        -2
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

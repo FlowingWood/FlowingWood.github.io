@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bfJ4Jq9W9LNaNqGpuwJyiM"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "notice",
+      "rect": [
+        24,
+        29,
+        71,
+        82
+      ],
+      "offset": [
+        -0.5,
+        -10
+      ],
+      "originalSize": [
+        120,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

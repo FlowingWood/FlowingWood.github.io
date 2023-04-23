@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2eK3ImrxNPr6BP2+QtCYDV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "yesterday_code",
+      "rect": [
+        4,
+        1,
+        161,
+        29
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        168,
+        31
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

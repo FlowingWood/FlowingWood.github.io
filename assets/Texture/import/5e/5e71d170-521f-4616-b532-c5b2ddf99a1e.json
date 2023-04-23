@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "dbIjUndlNJBawNz0VNII7F"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mail_btn_shanchu",
+      "rect": [
+        2,
+        1,
+        160,
+        55
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        164,
+        58
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

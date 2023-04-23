@@ -1,0 +1,561 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "layout_heap_cards_bottom",
+      {
+        "x": 640,
+        "y": 60,
+        "zorder": 1000,
+        "items": [
+          {
+            "id": 0,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 0,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -464,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 1,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -412,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 2,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -360,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 3,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -412,
+                  "y": 15,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_bottom_{NUM}.png",
+              "x": -412,
+              "y": 15,
+              "scale": 1,
+              "zorder": 4
+            }
+          },
+          {
+            "id": 1,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 4,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -232,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 5,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -180,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 6,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -128,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 7,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -180,
+                  "y": 15,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_bottom_{NUM}.png",
+              "x": -180,
+              "y": 15,
+              "scale": 1,
+              "zorder": 8
+            }
+          },
+          {
+            "id": 2,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 8,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -50,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 9,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 2,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 10,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 54,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 11,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 2,
+                  "y": 15,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_bottom_{NUM}.png",
+              "x": 2,
+              "y": 15,
+              "scale": 1,
+              "zorder": 12
+            }
+          },
+          {
+            "id": 3,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 12,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 132,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 13,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 184,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 14,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 236,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 15,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": 184,
+                  "y": 15,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_bottom_{NUM}.png",
+              "x": 184,
+              "y": 15,
+              "scale": 1,
+              "zorder": 16
+            }
+          },
+          {
+            "id": 4,
+            "items": [
+              {
+                "id": 0,
+                "zorder": 0,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -414,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 1,
+                "zorder": 1,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -362,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 2,
+                "zorder": 2,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -310,
+                  "y": -5,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              },
+              {
+                "id": 3,
+                "zorder": 3,
+                "ground": {
+                  "file": "bottom_extra_bg.png",
+                  "back": "bottom_extra_an.png",
+                  "x": -362,
+                  "y": 15,
+                  "scale": 0.8
+                },
+                "card": {
+                  "file": "hand_card_{NUM}.png",
+                  "x": -36,
+                  "y": -37,
+                  "scale": 0.7
+                },
+                "corner": {
+                  "file": "corner_{NUM}_7.png",
+                  "x": -21,
+                  "y": -16,
+                  "scale": 1
+                }
+              }
+            ],
+            "direct": {
+              "file": "direct_bottom_{NUM}.png",
+              "x": -362,
+              "y": 15,
+              "scale": 1,
+              "zorder": 4
+            }
+          }
+        ]
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a7fOhojSZFQ5/C9tOHdl1r"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "label_invite",
+      "rect": [
+        2,
+        0,
+        106,
+        29
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        108,
+        29
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

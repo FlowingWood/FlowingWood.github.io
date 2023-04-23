@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "60JYdh03REiKsDNBoqUVgA"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "hall",
+      "rect": [
+        2,
+        2,
+        291,
+        498
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        295,
+        502
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

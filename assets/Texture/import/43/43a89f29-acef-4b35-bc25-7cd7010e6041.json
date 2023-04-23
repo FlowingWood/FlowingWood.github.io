@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "30cotkw8VCJ458W12X/DX1"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pre_step",
+      "rect": [
+        0,
+        0,
+        172,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        172,
+        66
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

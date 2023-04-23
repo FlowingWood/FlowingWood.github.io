@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6cM9NE0EdKvZ92RFfK1RT4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lr_room_master",
+      "rect": [
+        0,
+        0,
+        327,
+        220
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        328,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

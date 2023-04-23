@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "22Jw635WVNIpKgfmrLPKTB"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "exchange_bg",
+      "rect": [
+        0,
+        0,
+        587,
+        62
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        588,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

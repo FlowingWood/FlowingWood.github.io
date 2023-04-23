@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "dbNozgBmdCb5kEtB+jatMG"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bubble_top",
+      "rect": [
+        0,
+        0,
+        278,
+        104
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        278,
+        104
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

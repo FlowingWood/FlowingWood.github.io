@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f8dvNumWNJzJLBSuXfZJ1P"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mail_no_read",
+      "rect": [
+        0,
+        1,
+        44,
+        44
+      ],
+      "offset": [
+        -2,
+        1
+      ],
+      "originalSize": [
+        48,
+        48
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

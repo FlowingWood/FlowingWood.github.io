@@ -1,0 +1,421 @@
+[
+  1,
+  [
+    "5eecG+L41B27jNvs5JSpWN",
+    "86g1ftoYNLfZvVWjvaYo6F"
+  ],
+  [
+    "spriteFrame",
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        [
+          0,
+          "mail_exchange",
+          22,
+          {
+            "commonHeight": 29,
+            "fontSize": 22,
+            "atlasName": "mail_exchange.png",
+            "fontDefDictionary": {
+              "32": {
+                "xOffset": 0,
+                "yOffset": 23,
+                "xAdvance": 11,
+                "rect": {
+                  "x": 116,
+                  "y": 123,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "20102": {
+                "xOffset": 1,
+                "yOffset": -1,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 88,
+                  "y": 123,
+                  "width": 26,
+                  "height": 27
+                }
+              },
+              "20449": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 93,
+                  "y": 2,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "20462": {
+                "xOffset": 0,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 2,
+                  "y": 2,
+                  "width": 29,
+                  "height": 29
+                }
+              },
+              "20817": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 63,
+                  "y": 2,
+                  "width": 28,
+                  "height": 29
+                }
+              },
+              "21024": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 148,
+                  "y": 93,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "21046": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 92,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "21069": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 152,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "21363": {
+                "xOffset": 2,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 60,
+                  "y": 123,
+                  "width": 26,
+                  "height": 27
+                }
+              },
+              "21435": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 61,
+                  "y": 93,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "21462": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 62,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "21495": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 92,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "22797": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 62,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "23450": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 32,
+                  "y": 93,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "23458": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 2,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "24448": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 122,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "24494": {
+                "xOffset": 0,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 2,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "25105": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 122,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "25442": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 153,
+                  "y": 2,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "25913": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 90,
+                  "y": 93,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "26381": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 2,
+                  "y": 93,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "30693": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 2,
+                  "y": 123,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "31435": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 31,
+                  "y": 123,
+                  "width": 27,
+                  "height": 27
+                }
+              },
+              "31995": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 119,
+                  "y": 93,
+                  "width": 27,
+                  "height": 28
+                }
+              },
+              "32465": {
+                "xOffset": 1,
+                "yOffset": -3,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 33,
+                  "y": 2,
+                  "width": 28,
+                  "height": 29
+                }
+              },
+              "32852": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 123,
+                  "y": 2,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "36947": {
+                "xOffset": 0,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 32,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "38500": {
+                "xOffset": 1,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 152,
+                  "y": 63,
+                  "width": 28,
+                  "height": 28
+                }
+              },
+              "39046": {
+                "xOffset": 0,
+                "yOffset": -2,
+                "xAdvance": 22,
+                "rect": {
+                  "x": 32,
+                  "y": 33,
+                  "width": 28,
+                  "height": 28
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "mail_exchange",
+          "rect": [
+            3,
+            2,
+            177,
+            148
+          ],
+          "offset": [
+            0,
+            16
+          ],
+          "originalSize": [
+            183,
+            184
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

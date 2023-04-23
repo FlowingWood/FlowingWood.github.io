@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "05wInoQ2lLhJFbCo3pS1pg"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "AddFavoriteSample",
+      "rect": [
+        0,
+        0,
+        270,
+        350
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        270,
+        350
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

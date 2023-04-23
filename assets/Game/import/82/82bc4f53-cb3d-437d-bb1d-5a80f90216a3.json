@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d0cNg0Mv5IrYIXaXn9kzz6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "150_win_redpack",
+      "rect": [
+        0,
+        1,
+        927,
+        526
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        928,
+        528
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

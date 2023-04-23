@@ -1,0 +1,63 @@
+{
+    "paths": {
+        "dfxsfgMCREvYu4KoCuaDGN": [
+            "Animation/buhua",
+            "cc.AnimationClip"
+        ],
+        "584RbefY9LhoYgY4JRJ/m9": [
+            "Animation/gang_angang_hu_ting",
+            "cc.AnimationClip"
+        ],
+        "66vTRdiPtMGYDEFzpoP9xT": [
+            "Animation/peng_chi",
+            "cc.AnimationClip"
+        ],
+        "12Uc+oQBpP+qAUY4mdJY+t": [
+            "Atlas/table",
+            "cc.Texture2D"
+        ],
+        "8eJd9euu9Lwr/QMjGrzkWo": [
+            "Atlas/table",
+            "cc.SpriteAtlas"
+        ],
+        "dbt8onVLNLCoCzRbtJMy7+": [
+            "Layout3DTable",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "12Uc+oQBpP+qAUY4mdJY+t",
+        "45EvSd5PtMRYwJUXC78Nwi",
+        "584RbefY9LhoYgY4JRJ/m9",
+        "66vTRdiPtMGYDEFzpoP9xT",
+        "78lFefKThCB42J1vn8gwwv",
+        "8eJd9euu9Lwr/QMjGrzkWo",
+        "a9RxBDk0RLAaNLsz+/KBA9",
+        "b32U5sPjhL06+dEkQdhzlQ",
+        "dbt8onVLNLCoCzRbtJMy7+",
+        "dfxsfgMCREvYu4KoCuaDGN",
+        "e9RcQDWiVFHoDNoL1OBoLa"
+    ],
+    "scenes": {},
+    "redirect": [
+        "12Uc+oQBpP+qAUY4mdJY+t",
+        0,
+        "45EvSd5PtMRYwJUXC78Nwi",
+        0,
+        "a9RxBDk0RLAaNLsz+/KBA9",
+        0,
+        "e9RcQDWiVFHoDNoL1OBoLa",
+        1
+    ],
+    "deps": [
+        "main",
+        "resources"
+    ],
+    "packs": {},
+    "name": "Layout3DRes",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

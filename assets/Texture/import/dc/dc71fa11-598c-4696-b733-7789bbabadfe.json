@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "cekErsEAFDUpn9ZxoreKVz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_share",
+      "rect": [
+        27,
+        49,
+        130,
+        106
+      ],
+      "offset": [
+        -0.5,
+        -7.5
+      ],
+      "originalSize": [
+        185,
+        189
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

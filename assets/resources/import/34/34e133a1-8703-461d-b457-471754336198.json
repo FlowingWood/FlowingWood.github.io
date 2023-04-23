@@ -1,0 +1,371 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "layout_hua_cards_top",
+      {
+        "x": 600,
+        "y": 625,
+        "zorder": 200,
+        "items": [
+          {
+            "id": 0,
+            "zorder": -2,
+            "ground": {
+              "file": "top_extra_bg_13.png",
+              "x": -243,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_13.png",
+              "x": -23,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_1.png",
+              "x": -11,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 1,
+            "zorder": 0,
+            "ground": {
+              "file": "top_extra_bg_13.png",
+              "x": -204,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_13.png",
+              "x": -23,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_1.png",
+              "x": -11,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 2,
+            "zorder": 2,
+            "ground": {
+              "file": "top_extra_bg_12.png",
+              "x": -165,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_12.png",
+              "x": -23,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_2.png",
+              "x": -12,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 3,
+            "zorder": 4,
+            "ground": {
+              "file": "top_extra_bg_11.png",
+              "x": -126,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_11.png",
+              "x": -22,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_2.png",
+              "x": -11,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 4,
+            "zorder": 6,
+            "ground": {
+              "file": "top_extra_bg_10.png",
+              "x": -87,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_10.png",
+              "x": -22,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_3.png",
+              "x": -11,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 5,
+            "zorder": 8,
+            "ground": {
+              "file": "top_extra_bg_9.png",
+              "x": -48,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_9.png",
+              "x": -22,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_4.png",
+              "x": -12,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 6,
+            "zorder": 10,
+            "ground": {
+              "file": "top_extra_bg_8.png",
+              "x": -9,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_8.png",
+              "x": -22,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_5.png",
+              "x": -13,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 7,
+            "zorder": 11,
+            "ground": {
+              "file": "top_extra_bg_7.png",
+              "x": 29,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_7.png",
+              "x": -21,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_5.png",
+              "x": -12,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 8,
+            "zorder": 9,
+            "ground": {
+              "file": "top_extra_bg_6.png",
+              "x": 68,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_6.png",
+              "x": -22,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_6.png",
+              "x": -14,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 9,
+            "zorder": 7,
+            "ground": {
+              "file": "top_extra_bg_5.png",
+              "x": 107,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_5.png",
+              "x": -23,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_7.png",
+              "x": -16,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 10,
+            "zorder": 5,
+            "ground": {
+              "file": "top_extra_bg_4.png",
+              "x": 146,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_4.png",
+              "x": -24,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_9.png",
+              "x": -17,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 11,
+            "zorder": 3,
+            "ground": {
+              "file": "top_extra_bg_3.png",
+              "x": 185,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_3.png",
+              "x": -24,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_12.png",
+              "x": -17,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 12,
+            "zorder": 1,
+            "ground": {
+              "file": "top_extra_bg_2.png",
+              "x": 224,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_2.png",
+              "x": -24,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_13.png",
+              "x": -17,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 13,
+            "zorder": -1,
+            "ground": {
+              "file": "top_extra_bg_1.png",
+              "x": 263,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_2.png",
+              "x": -24,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_13.png",
+              "x": -17,
+              "y": -8,
+              "scale": 0.61
+            }
+          },
+          {
+            "id": 14,
+            "zorder": -3,
+            "ground": {
+              "file": "top_extra_bg_1.png",
+              "x": 302,
+              "y": 20,
+              "scale": 1
+            },
+            "card": {
+              "file": "card_{NUM}_2.png",
+              "x": -24,
+              "y": -14,
+              "scale": 0.82
+            },
+            "corner": {
+              "file": "corner_{NUM}_13.png",
+              "x": -17,
+              "y": -8,
+              "scale": 0.61
+            }
+          }
+        ]
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

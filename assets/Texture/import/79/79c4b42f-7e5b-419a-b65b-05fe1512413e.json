@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "73dRAQXGJJDJ05CYnwJ0lv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mall_left",
+      "rect": [
+        0,
+        0,
+        186,
+        505
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        186,
+        506
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

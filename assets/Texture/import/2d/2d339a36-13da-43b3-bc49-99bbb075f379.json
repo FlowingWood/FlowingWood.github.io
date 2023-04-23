@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b1QqRqcTNM4K0hg7cugn/A"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lottery_bg",
+      "rect": [
+        0,
+        0,
+        689,
+        391
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        689,
+        391
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

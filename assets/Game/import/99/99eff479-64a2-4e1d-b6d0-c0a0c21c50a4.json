@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "26Dp+CZjFHMLtZanzb+3TN"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "daunwei_01",
+      "rect": [
+        0,
+        0,
+        643,
+        710
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        643,
+        710
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

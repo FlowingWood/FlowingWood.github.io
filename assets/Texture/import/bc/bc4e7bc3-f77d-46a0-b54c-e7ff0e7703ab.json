@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "06Vb6DBJRKzpUp7YutsHao"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_invite",
+      "rect": [
+        0,
+        1,
+        196,
+        68
+      ],
+      "offset": [
+        -0.5,
+        1
+      ],
+      "originalSize": [
+        197,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

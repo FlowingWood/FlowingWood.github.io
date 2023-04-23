@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "00Tw0oJuhKnYYtuh9g2zkv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "lr_rule_tab_1",
+      "rect": [
+        0,
+        1,
+        226,
+        109
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        226,
+        110
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

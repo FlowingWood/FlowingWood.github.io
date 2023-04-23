@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "7a4TW+XW9OtIs1c6XCN9om"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "kdf4_hudie",
+      "rect": [
+        0,
+        0,
+        65,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        65,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

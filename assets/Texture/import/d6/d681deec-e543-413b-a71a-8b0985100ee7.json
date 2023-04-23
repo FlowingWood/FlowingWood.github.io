@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0ap9JKiHlLn7Kfp+neAUaZ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "item_bottom",
+      "rect": [
+        0,
+        0,
+        125,
+        130
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        126,
+        130
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

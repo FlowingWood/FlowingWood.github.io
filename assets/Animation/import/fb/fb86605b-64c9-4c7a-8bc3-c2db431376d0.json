@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "aaOtru1K5FWIpnpcM9w8Dt"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jdpg",
+      "rect": [
+        2,
+        2,
+        250,
+        824
+      ],
+      "offset": [
+        0,
+        2.5
+      ],
+      "originalSize": [
+        254,
+        833
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

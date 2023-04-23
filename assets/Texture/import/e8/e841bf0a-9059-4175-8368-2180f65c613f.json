@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "22rmBLtZdNcYX6yCNwXfAn"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "mall_bg",
+      "rect": [
+        0,
+        0,
+        176,
+        235
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        176,
+        236
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

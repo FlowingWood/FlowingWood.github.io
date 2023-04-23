@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c2PO2tYGRGwZNhAPryrWSz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "get_reward_guangquan",
+      "rect": [
+        6,
+        5,
+        684,
+        681
+      ],
+      "offset": [
+        2,
+        0.5
+      ],
+      "originalSize": [
+        692,
+        692
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

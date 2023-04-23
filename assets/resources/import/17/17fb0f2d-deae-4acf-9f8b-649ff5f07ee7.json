@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6etq1vtfBLPqkWxMqE0OEU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "progress",
+      "rect": [
+        12,
+        11,
+        676,
+        27
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        700,
+        48
+      ],
+      "capInsets": [
+        15,
+        0,
+        15,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

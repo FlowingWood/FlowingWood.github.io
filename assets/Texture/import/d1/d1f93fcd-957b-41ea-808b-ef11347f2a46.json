@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b4YKD3EtFOw5Lkx2OwdAND"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "slider_cover",
+      "rect": [
+        7,
+        4,
+        492,
+        50
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        506,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
